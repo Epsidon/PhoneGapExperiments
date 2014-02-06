@@ -105,6 +105,9 @@
             //NSLog(@" Longtitude %@", currentLocation.coordinate.latitude);
             //NSLog(@" Longtitude %@", currentLocation.coordinate.altitude);
             //NSLog(@" Longtitude %@", currentLocation.coordinate.accuracy);
+            
+            //The method that triggers a function in the javascript side
+            [self.webView stringByEvaluatingJavaScriptFromString:@"MY JAVASCRIPT FUNCTION NAME()"];
         }
     }
 
