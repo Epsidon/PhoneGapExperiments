@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+var countVar = 0;
+
 var app = {
     // Application Constructor
     initialize: function() {
@@ -34,6 +36,7 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        setTimeout(navigator.geolocation.getCurrentPosition(onSuccess, onError), 100);
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -45,5 +48,33 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+        
+        
     }
 };
+
+
+function onSuccess(position) {
+    var element = document.getElementById('geolocation');
+    element.innerHTML = 'Latitude: '           + position.coords.latitude              + '<br />' +
+    'Longitude: '          + position.coords.longitude             + '<br />' +
+    'Altitude: '           + position.coords.altitude              + '<br />' +
+    'Accuracy: '           + position.coords.accuracy              + '<br />' +
+    'Altitude Accuracy: '  + position.coords.altitudeAccuracy      + '<br />';
+    setTimeout(navigator.geolocation.getCurrentPosition(onSuccess, onError), 100);
+
+    
+}
+
+function onError(error) {
+    alert('code: '    + error.code    + '\n' +
+          'message: ' + error.message + '\n');
+    setTimeout(navigator.geolocation.getCurrentPosition(onSuccess, onError), 100);
+
+}
+
+function count(){
+    var element = document.getElementById('geolocation');
+    countVar = countVar + 1;
+    element.innerHTML = countVar;
+}

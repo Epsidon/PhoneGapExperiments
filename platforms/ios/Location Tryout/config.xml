@@ -16,9 +16,6 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <feature name="Console">
-        <param name="ios-package" value="CDVLogger" />
-    </feature>
     <name>Location Tryout</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

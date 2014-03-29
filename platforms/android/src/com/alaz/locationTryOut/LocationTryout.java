@@ -19,26 +19,30 @@
 
 package com.alaz.locationTryOut;
 
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
-import java.net.URLConnection;
+import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
 import org.apache.cordova.Config;
 import org.apache.cordova.CordovaActivity;
-import org.json.JSONException;
 
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.DialogInterface.OnCancelListener;
+import android.content.Intent;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
+
+
+
 
 public class LocationTryout extends CordovaActivity 
 {
@@ -48,18 +52,21 @@ public class LocationTryout extends CordovaActivity
         super.onCreate(savedInstanceState);
         super.init();
         // Set by <content src="index.html" /> in config.xml
-        super.loadUrl(Config.getStartUrl());
-        //super.loadUrl("file:///android_asset/www/index.html")
+        //super.loadUrl(Config.getStartUrl());
+//        super.loadUrl("file:///android_asset/www/index.html");
         final GPSTracker newGpsTracker = new GPSTracker(this);
         Timer timer = new Timer();
+
         
         timer.scheduleAtFixedRate(new TimerTask() {
         	  @Override
         	  public void run() {
-        		  if(newGpsTracker.canGetLocation()){
-        			  System.out.println("GPS: " + newGpsTracker.getLocation().getLatitude());
-        			  System.out.println("GPS: " + newGpsTracker.getLocation().getLongitude());
-
+        		  if(newGpsTracker.canGetLocationFromGPS){
+        			  Date date = new Date((long) newGpsTracker.getTime());
+        			  System.out.println( "Time: " + date + " Latitude: " + newGpsTracker.getLatitude() + " Longitude:" +  newGpsTracker.getLongitude()
++ " Accuracy:" + newGpsTracker.getLocation().getAccuracy());  
+        			  
+        			  
         		  }
         	  }
         	}, 1000, 1000);
