@@ -1,0 +1,1168 @@
+03-25 13:42:24.937: I/System.out(27504): location update: 45.4214253 -75.6822316
+03-25 13:42:25.137: D/Network(27504): Network
+03-25 13:42:25.137: I/System.out(27504): Time: Tue Mar 25 13:42:24 EDT 2014 Latitude: 45.4214253 Longitude:-75.6822316 Accuracy:29.671
+03-25 13:42:25.948: I/System.out(27504): location update: 45.4215599 -75.6823784
+03-25 13:42:26.138: D/Network(27504): Network
+03-25 13:42:26.138: I/System.out(27504): Time: Tue Mar 25 13:42:25 EDT 2014 Latitude: 45.4215599 Longitude:-75.6823784 Accuracy:135.0
+03-25 13:42:27.099: I/System.out(27504): location update: 45.4215272 -75.682304
+03-25 13:42:27.139: D/Network(27504): Network
+03-25 13:42:27.139: I/System.out(27504): Time: Tue Mar 25 13:42:27 EDT 2014 Latitude: 45.4215272 Longitude:-75.682304 Accuracy:125.541
+03-25 13:42:28.020: I/System.out(27504): location update: 45.4217044 -75.6825428
+03-25 13:42:28.131: D/Network(27504): Network
+03-25 13:42:28.131: I/System.out(27504): Time: Tue Mar 25 13:42:27 EDT 2014 Latitude: 45.4217044 Longitude:-75.6825428 Accuracy:103.293
+03-25 13:42:29.152: D/Network(27504): Network
+03-25 13:42:29.152: I/System.out(27504): Time: Tue Mar 25 13:42:27 EDT 2014 Latitude: 45.4217044 Longitude:-75.6825428 Accuracy:103.293
+03-25 13:42:29.162: I/System.out(27504): location update: 45.4218332 -75.6826611
+03-25 13:42:30.133: D/Network(27504): Network
+03-25 13:42:30.133: I/System.out(27504): Time: Tue Mar 25 13:42:29 EDT 2014 Latitude: 45.4218332 Longitude:-75.6826611 Accuracy:84.952
+03-25 13:42:30.964: I/System.out(27504): location update: 45.4218731 -75.6826907
+03-25 13:42:31.134: D/Network(27504): Network
+03-25 13:42:31.134: I/System.out(27504): Time: Tue Mar 25 13:42:30 EDT 2014 Latitude: 45.4218731 Longitude:-75.6826907 Accuracy:84.952
+03-25 13:42:32.035: I/System.out(27504): location update: 45.4218598 -75.682699
+03-25 13:42:32.135: D/Network(27504): Network
+03-25 13:42:32.135: I/System.out(27504): Time: Tue Mar 25 13:42:32 EDT 2014 Latitude: 45.4218598 Longitude:-75.682699 Accuracy:85.706
+03-25 13:42:33.136: D/Network(27504): Network
+03-25 13:42:33.136: I/System.out(27504): Time: Tue Mar 25 13:42:32 EDT 2014 Latitude: 45.4218598 Longitude:-75.682699 Accuracy:85.706
+03-25 13:42:33.156: I/System.out(27504): location update: 45.4218645 -75.6826879
+03-25 13:42:34.147: D/Network(27504): Network
+03-25 13:42:34.147: I/System.out(27504): Time: Tue Mar 25 13:42:33 EDT 2014 Latitude: 45.4218645 Longitude:-75.6826879 Accuracy:96.293
+03-25 13:42:35.128: I/System.out(27504): location update: 45.4222767 -75.6831006
+03-25 13:42:35.138: D/Network(27504): Network
+03-25 13:42:35.138: I/System.out(27504): Time: Tue Mar 25 13:42:35 EDT 2014 Latitude: 45.4222767 Longitude:-75.6831006 Accuracy:69.233
+03-25 13:42:36.049: I/System.out(27504): location update: 45.4222266 -75.6830493
+03-25 13:42:36.139: D/Network(27504): Network
+03-25 13:42:36.139: I/System.out(27504): Time: Tue Mar 25 13:42:36 EDT 2014 Latitude: 45.4222266 Longitude:-75.6830493 Accuracy:89.374
+03-25 13:42:37.060: I/System.out(27504): location update: 45.422204 -75.6830211
+03-25 13:42:37.130: D/Network(27504): Network
+03-25 13:42:37.130: I/System.out(27504): Time: Tue Mar 25 13:42:37 EDT 2014 Latitude: 45.422204 Longitude:-75.6830211 Accuracy:86.595
+03-25 13:42:38.131: D/Network(27504): Network
+03-25 13:42:38.131: I/System.out(27504): Time: Tue Mar 25 13:42:37 EDT 2014 Latitude: 45.422204 Longitude:-75.6830211 Accuracy:86.595
+03-25 13:42:38.191: I/System.out(27504): location update: 45.4222047 -75.6829972
+03-25 13:42:39.132: D/Network(27504): Network
+03-25 13:42:39.132: I/System.out(27504): Time: Tue Mar 25 13:42:38 EDT 2014 Latitude: 45.4222047 Longitude:-75.6829972 Accuracy:85.68
+03-25 13:42:39.232: I/System.out(27504): location update: 45.4222092 -75.6830133
+03-25 13:42:40.133: D/Network(27504): Network
+03-25 13:42:40.133: I/System.out(27504): Time: Tue Mar 25 13:42:39 EDT 2014 Latitude: 45.4222092 Longitude:-75.6830133 Accuracy:123.039
+03-25 13:42:40.994: I/System.out(27504): location update: 45.4210476 -75.6822075
+03-25 13:42:41.134: D/Network(27504): Network
+03-25 13:42:41.144: I/System.out(27504): Time: Tue Mar 25 13:42:40 EDT 2014 Latitude: 45.4210476 Longitude:-75.6822075 Accuracy:61.5
+03-25 13:42:42.136: D/Network(27504): Network
+03-25 13:42:42.146: I/System.out(27504): Time: Tue Mar 25 13:42:40 EDT 2014 Latitude: 45.4210476 Longitude:-75.6822075 Accuracy:61.5
+03-25 13:42:42.166: I/System.out(27504): location update: 45.4210804 -75.6822129
+03-25 13:42:43.167: D/Network(27504): Network
+03-25 13:42:43.167: I/System.out(27504): Time: Tue Mar 25 13:42:42 EDT 2014 Latitude: 45.4210804 Longitude:-75.6822129 Accuracy:40.5
+03-25 13:42:44.088: I/System.out(27504): location update: 45.4207935 -75.6821755
+03-25 13:42:44.138: D/Network(27504): Network
+03-25 13:42:44.138: I/System.out(27504): Time: Tue Mar 25 13:42:44 EDT 2014 Latitude: 45.4207935 Longitude:-75.6821755 Accuracy:36.0
+03-25 13:42:45.019: I/System.out(27504): location update: 45.4206699 -75.6822018
+03-25 13:42:45.139: D/Network(27504): Network
+03-25 13:42:45.139: I/System.out(27504): Time: Tue Mar 25 13:42:44 EDT 2014 Latitude: 45.4206699 Longitude:-75.6822018 Accuracy:40.5
+03-25 13:42:45.980: I/System.out(27504): location update: 45.4206718 -75.6821872
+03-25 13:42:46.130: D/Network(27504): Network
+03-25 13:42:46.130: I/System.out(27504): Time: Tue Mar 25 13:42:45 EDT 2014 Latitude: 45.4206718 Longitude:-75.6821872 Accuracy:36.0
+03-25 13:42:47.061: I/System.out(27504): location update: 45.4207499 -75.6821185
+03-25 13:42:47.131: D/Network(27504): Network
+03-25 13:42:47.131: I/System.out(27504): Time: Tue Mar 25 13:42:47 EDT 2014 Latitude: 45.4207499 Longitude:-75.6821185 Accuracy:31.5
+03-25 13:42:48.152: D/Network(27504): Network
+03-25 13:42:48.152: I/System.out(27504): Time: Tue Mar 25 13:42:47 EDT 2014 Latitude: 45.4207499 Longitude:-75.6821185 Accuracy:31.5
+03-25 13:42:48.182: I/System.out(27504): location update: 45.4206959 -75.6820735
+03-25 13:42:49.133: D/Network(27504): Network
+03-25 13:42:49.133: I/System.out(27504): Time: Tue Mar 25 13:42:48 EDT 2014 Latitude: 45.4206959 Longitude:-75.6820735 Accuracy:29.39
+03-25 13:42:49.183: I/System.out(27504): location update: 45.420626 -75.6820835
+03-25 13:42:50.134: D/Network(27504): Network
+03-25 13:42:50.134: I/System.out(27504): Time: Tue Mar 25 13:42:49 EDT 2014 Latitude: 45.420626 Longitude:-75.6820835 Accuracy:34.239
+03-25 13:42:51.065: I/System.out(27504): location update: 45.4206512 -75.6821043
+03-25 13:42:51.135: D/Network(27504): Network
+03-25 13:42:51.145: I/System.out(27504): Time: Tue Mar 25 13:42:51 EDT 2014 Latitude: 45.4206512 Longitude:-75.6821043 Accuracy:33.721
+03-25 13:42:52.066: I/System.out(27504): location update: 45.4206354 -75.6821449
+03-25 13:42:52.136: D/Network(27504): Network
+03-25 13:42:52.136: I/System.out(27504): Time: Tue Mar 25 13:42:52 EDT 2014 Latitude: 45.4206354 Longitude:-75.6821449 Accuracy:36.618
+03-25 13:42:53.047: I/System.out(27504): location update: 45.4206349 -75.6821418
+03-25 13:42:53.137: D/Network(27504): Network
+03-25 13:42:53.137: I/System.out(27504): Time: Tue Mar 25 13:42:53 EDT 2014 Latitude: 45.4206349 Longitude:-75.6821418 Accuracy:36.508
+03-25 13:42:54.128: I/System.out(27504): location update: 45.42061 -75.6820931
+03-25 13:42:54.138: D/Network(27504): Network
+03-25 13:42:54.138: I/System.out(27504): Time: Tue Mar 25 13:42:54 EDT 2014 Latitude: 45.42061 Longitude:-75.6820931 Accuracy:36.096
+03-25 13:42:54.979: I/System.out(27504): location update: 45.4206249 -75.6819812
+03-25 13:42:55.139: D/Network(27504): Network
+03-25 13:42:55.139: I/System.out(27504): Time: Tue Mar 25 13:42:54 EDT 2014 Latitude: 45.4206249 Longitude:-75.6819812 Accuracy:30.817
+03-25 13:42:56.110: I/System.out(27504): location update: 45.4206123 -75.6819806
+03-25 13:42:56.130: D/Network(27504): Network
+03-25 13:42:56.130: I/System.out(27504): Time: Tue Mar 25 13:42:56 EDT 2014 Latitude: 45.4206123 Longitude:-75.6819806 Accuracy:31.813
+03-25 13:42:56.941: I/System.out(27504): location update: 45.4206071 -75.6819711
+03-25 13:42:57.132: D/Network(27504): Network
+03-25 13:42:57.132: I/System.out(27504): Time: Tue Mar 25 13:42:56 EDT 2014 Latitude: 45.4206071 Longitude:-75.6819711 Accuracy:31.944
+03-25 13:42:58.113: I/System.out(27504): location update: 45.4205991 -75.6820507
+03-25 13:42:58.133: D/Network(27504): Network
+03-25 13:42:58.133: I/System.out(27504): Time: Tue Mar 25 13:42:58 EDT 2014 Latitude: 45.4205991 Longitude:-75.6820507 Accuracy:35.254
+03-25 13:42:59.134: D/Network(27504): Network
+03-25 13:42:59.134: I/System.out(27504): Time: Tue Mar 25 13:42:58 EDT 2014 Latitude: 45.4205991 Longitude:-75.6820507 Accuracy:35.254
+03-25 13:42:59.234: I/System.out(27504): location update: 45.4206364 -75.6820414
+03-25 13:43:00.135: D/Network(27504): Network
+03-25 13:43:00.135: I/System.out(27504): Time: Tue Mar 25 13:42:59 EDT 2014 Latitude: 45.4206364 Longitude:-75.6820414 Accuracy:32.098
+03-25 13:43:00.235: I/System.out(27504): location update: 45.4205629 -75.6820936
+03-25 13:43:01.136: D/Network(27504): Network
+03-25 13:43:01.146: I/System.out(27504): Time: Tue Mar 25 13:43:00 EDT 2014 Latitude: 45.4205629 Longitude:-75.6820936 Accuracy:39.598
+03-25 13:43:01.256: I/System.out(27504): location update: 45.420596 -75.6821239
+03-25 13:43:02.137: D/Network(27504): Network
+03-25 13:43:02.137: I/System.out(27504): Time: Tue Mar 25 13:43:01 EDT 2014 Latitude: 45.420596 Longitude:-75.6821239 Accuracy:38.37
+03-25 13:43:02.237: I/System.out(27504): location update: 45.4206165 -75.6821079
+03-25 13:43:03.138: D/Network(27504): Network
+03-25 13:43:03.138: I/System.out(27504): Time: Tue Mar 25 13:43:02 EDT 2014 Latitude: 45.4206165 Longitude:-75.6821079 Accuracy:36.251
+03-25 13:43:03.258: I/System.out(27504): location update: 45.4206248 -75.6821238
+03-25 13:43:04.139: D/Network(27504): Network
+03-25 13:43:04.139: I/System.out(27504): Time: Tue Mar 25 13:43:03 EDT 2014 Latitude: 45.4206248 Longitude:-75.6821238 Accuracy:36.368
+03-25 13:43:04.179: I/System.out(27504): location update: 45.4206542 -75.6820908
+03-25 13:43:05.130: D/Network(27504): Network
+03-25 13:43:05.130: I/System.out(27504): Time: Tue Mar 25 13:43:04 EDT 2014 Latitude: 45.4206542 Longitude:-75.6820908 Accuracy:32.914
+03-25 13:43:05.170: I/System.out(27504): location update: 45.4206089 -75.6821749
+03-25 13:43:06.131: D/Network(27504): Network
+03-25 13:43:06.131: I/System.out(27504): Time: Tue Mar 25 13:43:05 EDT 2014 Latitude: 45.4206089 Longitude:-75.6821749 Accuracy:43.067
+03-25 13:43:07.052: I/System.out(27504): location update: 45.4205669 -75.6821625
+03-25 13:43:07.132: D/Network(27504): Network
+03-25 13:43:07.132: I/System.out(27504): Time: Tue Mar 25 13:43:07 EDT 2014 Latitude: 45.4205669 Longitude:-75.6821625 Accuracy:42.048
+03-25 13:43:08.023: I/System.out(27504): location update: 45.4205538 -75.6821531
+03-25 13:43:08.153: D/dalvikvm(27504): GC_FOR_ALLOC freed 511K, 11% free 9176K/10200K, paused 28ms, total 28ms
+03-25 13:43:08.163: D/Network(27504): Network
+03-25 13:43:08.163: I/System.out(27504): Time: Tue Mar 25 13:43:08 EDT 2014 Latitude: 45.4205538 Longitude:-75.6821531 Accuracy:42.595
+03-25 13:43:09.134: D/Network(27504): Network
+03-25 13:43:09.134: I/System.out(27504): Time: Tue Mar 25 13:43:08 EDT 2014 Latitude: 45.4205538 Longitude:-75.6821531 Accuracy:42.595
+03-25 13:43:09.294: I/System.out(27504): location update: 45.4206121 -75.682093
+03-25 13:43:10.135: D/Network(27504): Network
+03-25 13:43:10.135: I/System.out(27504): Time: Tue Mar 25 13:43:09 EDT 2014 Latitude: 45.4206121 Longitude:-75.682093 Accuracy:35.941
+03-25 13:43:10.286: I/System.out(27504): location update: 45.4206207 -75.6821024
+03-25 13:43:11.136: D/Network(27504): Network
+03-25 13:43:11.136: I/System.out(27504): Time: Tue Mar 25 13:43:10 EDT 2014 Latitude: 45.4206207 Longitude:-75.6821024 Accuracy:35.723
+03-25 13:43:11.327: I/System.out(27504): location update: 45.4206238 -75.6820617
+03-25 13:43:12.138: D/Network(27504): Network
+03-25 13:43:12.138: I/System.out(27504): Time: Tue Mar 25 13:43:11 EDT 2014 Latitude: 45.4206238 Longitude:-75.6820617 Accuracy:20.0
+03-25 13:43:13.099: I/System.out(27504): location update: 45.4208914 -75.6817908
+03-25 13:43:13.139: D/Network(27504): Network
+03-25 13:43:13.139: I/System.out(27504): Time: Tue Mar 25 13:43:13 EDT 2014 Latitude: 45.4208914 Longitude:-75.6817908 Accuracy:20.0
+03-25 13:43:14.050: I/System.out(27504): location update: 45.4208727 -75.6817809
+03-25 13:43:14.130: D/Network(27504): Network
+03-25 13:43:14.130: I/System.out(27504): Time: Tue Mar 25 13:43:14 EDT 2014 Latitude: 45.4208727 Longitude:-75.6817809 Accuracy:20.0
+03-25 13:43:14.991: I/System.out(27504): location update: 45.4208765 -75.6817815
+03-25 13:43:15.131: D/Network(27504): Network
+03-25 13:43:15.131: I/System.out(27504): Time: Tue Mar 25 13:43:14 EDT 2014 Latitude: 45.4208765 Longitude:-75.6817815 Accuracy:20.0
+03-25 13:43:16.052: I/System.out(27504): location update: 45.4208756 -75.6817612
+03-25 13:43:16.132: D/Network(27504): Network
+03-25 13:43:16.132: I/System.out(27504): Time: Tue Mar 25 13:43:16 EDT 2014 Latitude: 45.4208756 Longitude:-75.6817612 Accuracy:112.046
+03-25 13:43:17.113: I/System.out(27504): location update: 45.4208755 -75.6817676
+03-25 13:43:17.133: D/Network(27504): Network
+03-25 13:43:17.133: I/System.out(27504): Time: Tue Mar 25 13:43:17 EDT 2014 Latitude: 45.4208755 Longitude:-75.6817676 Accuracy:112.352
+03-25 13:43:18.014: I/System.out(27504): location update: 45.4208941 -75.6817829
+03-25 13:43:18.134: D/Network(27504): Network
+03-25 13:43:18.134: I/System.out(27504): Time: Tue Mar 25 13:43:18 EDT 2014 Latitude: 45.4208941 Longitude:-75.6817829 Accuracy:114.236
+03-25 13:43:19.085: I/System.out(27504): location update: 45.4208898 -75.6817695
+03-25 13:43:19.145: D/Network(27504): Network
+03-25 13:43:19.145: I/System.out(27504): Time: Tue Mar 25 13:43:19 EDT 2014 Latitude: 45.4208898 Longitude:-75.6817695 Accuracy:113.32
+03-25 13:43:20.136: D/Network(27504): Network
+03-25 13:43:20.136: I/System.out(27504): Time: Tue Mar 25 13:43:19 EDT 2014 Latitude: 45.4208898 Longitude:-75.6817695 Accuracy:113.32
+03-25 13:43:20.276: I/System.out(27504): location update: 45.420884 -75.6817452
+03-25 13:43:21.137: D/Network(27504): Network
+03-25 13:43:21.137: I/System.out(27504): Time: Tue Mar 25 13:43:20 EDT 2014 Latitude: 45.420884 Longitude:-75.6817452 Accuracy:111.784
+03-25 13:43:21.287: I/System.out(27504): location update: 45.4208759 -75.6817396
+03-25 13:43:22.148: D/Network(27504): Network
+03-25 13:43:22.148: I/System.out(27504): Time: Tue Mar 25 13:43:21 EDT 2014 Latitude: 45.4208759 Longitude:-75.6817396 Accuracy:107.039
+03-25 13:43:22.929: I/System.out(27504): location update: 45.4208549 -75.6816839
+03-25 13:43:23.139: D/Network(27504): Network
+03-25 13:43:23.139: I/System.out(27504): Time: Tue Mar 25 13:43:22 EDT 2014 Latitude: 45.4208549 Longitude:-75.6816839 Accuracy:107.021
+03-25 13:43:24.040: I/System.out(27504): location update: 45.4208635 -75.6816777
+03-25 13:43:24.130: D/Network(27504): Network
+03-25 13:43:24.130: I/System.out(27504): Time: Tue Mar 25 13:43:24 EDT 2014 Latitude: 45.4208635 Longitude:-75.6816777 Accuracy:108.419
+03-25 13:43:24.891: I/System.out(27504): location update: 45.420844 -75.6816259
+03-25 13:43:25.161: D/Network(27504): Network
+03-25 13:43:25.161: I/System.out(27504): Time: Tue Mar 25 13:43:24 EDT 2014 Latitude: 45.420844 Longitude:-75.6816259 Accuracy:104.728
+03-25 13:43:26.132: D/Network(27504): Network
+03-25 13:43:26.132: I/System.out(27504): Time: Tue Mar 25 13:43:24 EDT 2014 Latitude: 45.420844 Longitude:-75.6816259 Accuracy:104.728
+03-25 13:43:26.213: I/System.out(27504): location update: 45.4208306 -75.6816177
+03-25 13:43:27.134: D/Network(27504): Network
+03-25 13:43:27.134: I/System.out(27504): Time: Tue Mar 25 13:43:26 EDT 2014 Latitude: 45.4208306 Longitude:-75.6816177 Accuracy:104.748
+03-25 13:43:27.884: I/System.out(27504): location update: 45.420846 -75.6816236
+03-25 13:43:28.135: D/Network(27504): Network
+03-25 13:43:28.135: I/System.out(27504): Time: Tue Mar 25 13:43:27 EDT 2014 Latitude: 45.420846 Longitude:-75.6816236 Accuracy:104.748
+03-25 13:43:29.146: D/Network(27504): Network
+03-25 13:43:29.156: I/System.out(27504): Time: Tue Mar 25 13:43:27 EDT 2014 Latitude: 45.420846 Longitude:-75.6816236 Accuracy:104.748
+03-25 13:43:29.246: I/System.out(27504): location update: 45.4164164 -75.6804568
+03-25 13:43:30.137: D/Network(27504): Network
+03-25 13:43:30.137: I/System.out(27504): Time: Tue Mar 25 13:43:29 EDT 2014 Latitude: 45.4164164 Longitude:-75.6804568 Accuracy:96.718
+03-25 13:43:30.898: I/System.out(27504): location update: 45.4207828 -75.681522
+03-25 13:43:31.138: D/Network(27504): Network
+03-25 13:43:31.138: I/System.out(27504): Time: Tue Mar 25 13:43:30 EDT 2014 Latitude: 45.4207828 Longitude:-75.681522 Accuracy:95.93
+03-25 13:43:31.919: I/System.out(27504): location update: 45.4208053 -75.6815267
+03-25 13:43:32.139: D/Network(27504): Network
+03-25 13:43:32.139: I/System.out(27504): Time: Tue Mar 25 13:43:31 EDT 2014 Latitude: 45.4208053 Longitude:-75.6815267 Accuracy:20.0
+03-25 13:43:32.910: I/System.out(27504): location update: 45.4207983 -75.6815268
+03-25 13:43:33.130: D/Network(27504): Network
+03-25 13:43:33.130: I/System.out(27504): Time: Tue Mar 25 13:43:32 EDT 2014 Latitude: 45.4207983 Longitude:-75.6815268 Accuracy:20.0
+03-25 13:43:33.871: I/System.out(27504): location update: 45.420786 -75.6815318
+03-25 13:43:34.131: D/Network(27504): Network
+03-25 13:43:34.131: I/System.out(27504): Time: Tue Mar 25 13:43:33 EDT 2014 Latitude: 45.420786 Longitude:-75.6815318 Accuracy:20.0
+03-25 13:43:34.922: I/System.out(27504): location update: 45.4207819 -75.6815307
+03-25 13:43:35.132: D/Network(27504): Network
+03-25 13:43:35.132: I/System.out(27504): Time: Tue Mar 25 13:43:34 EDT 2014 Latitude: 45.4207819 Longitude:-75.6815307 Accuracy:20.0
+03-25 13:43:36.003: I/System.out(27504): location update: 45.4207534 -75.6815105
+03-25 13:43:36.133: D/Network(27504): Network
+03-25 13:43:36.133: I/System.out(27504): Time: Tue Mar 25 13:43:35 EDT 2014 Latitude: 45.4207534 Longitude:-75.6815105 Accuracy:20.0
+03-25 13:43:36.924: I/System.out(27504): location update: 45.420799 -75.6814597
+03-25 13:43:37.134: D/Network(27504): Network
+03-25 13:43:37.144: I/System.out(27504): Time: Tue Mar 25 13:43:36 EDT 2014 Latitude: 45.420799 Longitude:-75.6814597 Accuracy:27.0
+03-25 13:43:37.975: I/System.out(27504): location update: 45.4208096 -75.681382
+03-25 13:43:38.135: D/Network(27504): Network
+03-25 13:43:38.135: I/System.out(27504): Time: Tue Mar 25 13:43:37 EDT 2014 Latitude: 45.4208096 Longitude:-75.681382 Accuracy:45.0
+03-25 13:43:39.006: I/System.out(27504): location update: 45.420815 -75.681383
+03-25 13:43:39.136: D/Network(27504): Network
+03-25 13:43:39.136: I/System.out(27504): Time: Tue Mar 25 13:43:38 EDT 2014 Latitude: 45.420815 Longitude:-75.681383 Accuracy:39.0
+03-25 13:43:39.887: I/System.out(27504): location update: 45.42074 -75.6812274
+03-25 13:43:40.137: D/Network(27504): Network
+03-25 13:43:40.137: I/System.out(27504): Time: Tue Mar 25 13:43:39 EDT 2014 Latitude: 45.42074 Longitude:-75.6812274 Accuracy:42.0
+03-25 13:43:41.028: I/System.out(27504): location update: 45.4206695 -75.6810686
+03-25 13:43:41.138: D/Network(27504): Network
+03-25 13:43:41.138: I/System.out(27504): Time: Tue Mar 25 13:43:41 EDT 2014 Latitude: 45.4206695 Longitude:-75.6810686 Accuracy:35.41
+03-25 13:43:41.889: I/System.out(27504): location update: 45.4205628 -75.6808427
+03-25 13:43:42.140: D/Network(27504): Network
+03-25 13:43:42.140: I/System.out(27504): Time: Tue Mar 25 13:43:41 EDT 2014 Latitude: 45.4205628 Longitude:-75.6808427 Accuracy:49.683
+03-25 13:43:42.940: I/System.out(27504): location update: 45.4206222 -75.6809629
+03-25 13:43:43.131: D/Network(27504): Network
+03-25 13:43:43.131: I/System.out(27504): Time: Tue Mar 25 13:43:42 EDT 2014 Latitude: 45.4206222 Longitude:-75.6809629 Accuracy:40.185
+03-25 13:43:43.992: I/System.out(27504): location update: 45.4207428 -75.681273
+03-25 13:43:44.132: D/Network(27504): Network
+03-25 13:43:44.132: I/System.out(27504): Time: Tue Mar 25 13:43:43 EDT 2014 Latitude: 45.4207428 Longitude:-75.681273 Accuracy:80.934
+03-25 13:43:44.993: I/System.out(27504): location update: 45.4205723 -75.6810556
+03-25 13:43:45.133: D/Network(27504): Network
+03-25 13:43:45.133: I/System.out(27504): Time: Tue Mar 25 13:43:44 EDT 2014 Latitude: 45.4205723 Longitude:-75.6810556 Accuracy:60.952
+03-25 13:43:46.114: I/System.out(27504): location update: 45.4202633 -75.6807023
+03-25 13:43:46.134: D/Network(27504): Network
+03-25 13:43:46.134: I/System.out(27504): Time: Tue Mar 25 13:43:46 EDT 2014 Latitude: 45.4202633 Longitude:-75.6807023 Accuracy:73.944
+03-25 13:43:47.035: I/System.out(27504): location update: 45.4202833 -75.6804584
+03-25 13:43:47.135: D/Network(27504): Network
+03-25 13:43:47.135: I/System.out(27504): Time: Tue Mar 25 13:43:46 EDT 2014 Latitude: 45.4202833 Longitude:-75.6804584 Accuracy:79.815
+03-25 13:43:48.006: I/System.out(27504): location update: 45.4202686 -75.6804694
+03-25 13:43:48.136: D/Network(27504): Network
+03-25 13:43:48.136: I/System.out(27504): Time: Tue Mar 25 13:43:47 EDT 2014 Latitude: 45.4202686 Longitude:-75.6804694 Accuracy:80.185
+03-25 13:43:49.007: I/System.out(27504): location update: 45.4202035 -75.6803994
+03-25 13:43:49.137: D/Network(27504): Network
+03-25 13:43:49.137: I/System.out(27504): Time: Tue Mar 25 13:43:48 EDT 2014 Latitude: 45.4202035 Longitude:-75.6803994 Accuracy:34.5
+03-25 13:43:50.008: I/System.out(27504): location update: 45.4201728 -75.6804002
+03-25 13:43:50.138: D/Network(27504): Network
+03-25 13:43:50.138: I/System.out(27504): Time: Tue Mar 25 13:43:49 EDT 2014 Latitude: 45.4201728 Longitude:-75.6804002 Accuracy:30.0
+03-25 13:43:50.969: I/System.out(27504): location update: 45.4201986 -75.680406
+03-25 13:43:51.139: D/Network(27504): Network
+03-25 13:43:51.139: I/System.out(27504): Time: Tue Mar 25 13:43:50 EDT 2014 Latitude: 45.4201986 Longitude:-75.680406 Accuracy:33.0
+03-25 13:43:52.010: I/System.out(27504): location update: 45.4201986 -75.680406
+03-25 13:43:52.130: D/Network(27504): Network
+03-25 13:43:52.130: I/System.out(27504): Time: Tue Mar 25 13:43:51 EDT 2014 Latitude: 45.4201986 Longitude:-75.680406 Accuracy:33.0
+03-25 13:43:53.051: I/System.out(27504): location update: 45.4202183 -75.6804393
+03-25 13:43:53.131: D/Network(27504): Network
+03-25 13:43:53.131: I/System.out(27504): Time: Tue Mar 25 13:43:53 EDT 2014 Latitude: 45.4202183 Longitude:-75.6804393 Accuracy:30.0
+03-25 13:43:53.992: I/System.out(27504): location update: 45.420282 -75.6804588
+03-25 13:43:54.132: D/Network(27504): Network
+03-25 13:43:54.132: I/System.out(27504): Time: Tue Mar 25 13:43:53 EDT 2014 Latitude: 45.420282 Longitude:-75.6804588 Accuracy:42.0
+03-25 13:43:55.043: I/System.out(27504): location update: 45.4202545 -75.6804736
+03-25 13:43:55.133: D/Network(27504): Network
+03-25 13:43:55.133: I/System.out(27504): Time: Tue Mar 25 13:43:55 EDT 2014 Latitude: 45.4202545 Longitude:-75.6804736 Accuracy:42.0
+03-25 13:43:56.134: D/Network(27504): Network
+03-25 13:43:56.134: I/System.out(27504): Time: Tue Mar 25 13:43:55 EDT 2014 Latitude: 45.4202545 Longitude:-75.6804736 Accuracy:42.0
+03-25 13:43:56.195: I/System.out(27504): location update: 45.4202545 -75.6804736
+03-25 13:43:57.136: D/Network(27504): Network
+03-25 13:43:57.136: I/System.out(27504): Time: Tue Mar 25 13:43:56 EDT 2014 Latitude: 45.4202545 Longitude:-75.6804736 Accuracy:45.0
+03-25 13:43:58.137: D/Network(27504): Network
+03-25 13:43:58.147: I/System.out(27504): Time: Tue Mar 25 13:43:57 EDT 2014 Latitude: 45.4202325 Longitude:-75.6805246 Accuracy:45.0
+03-25 13:43:58.287: I/System.out(27504): location update: 45.4164164 -75.6804568
+03-25 13:43:59.138: D/Network(27504): Network
+03-25 13:43:59.138: I/System.out(27504): Time: Tue Mar 25 13:43:58 EDT 2014 Latitude: 45.4164164 Longitude:-75.6804568 Accuracy:31.093
+03-25 13:44:00.139: D/Network(27504): Network
+03-25 13:44:00.139: I/System.out(27504): Time: Tue Mar 25 13:43:58 EDT 2014 Latitude: 45.4206696 Longitude:-75.6808222 Accuracy:31.093
+03-25 13:44:00.149: I/System.out(27504): location update: 45.4206682 -75.6808198
+03-25 13:44:01.130: D/Network(27504): Network
+03-25 13:44:01.130: I/System.out(27504): Time: Tue Mar 25 13:44:00 EDT 2014 Latitude: 45.4206682 Longitude:-75.6808198 Accuracy:48.368
+03-25 13:44:02.011: I/System.out(27504): location update: 45.4206173 -75.6807591
+03-25 13:44:02.131: D/Network(27504): Network
+03-25 13:44:02.131: I/System.out(27504): Time: Tue Mar 25 13:44:01 EDT 2014 Latitude: 45.4206173 Longitude:-75.6807591 Accuracy:46.497
+03-25 13:44:02.992: I/System.out(27504): location update: 45.4205699 -75.6807157
+03-25 13:44:03.132: D/Network(27504): Network
+03-25 13:44:03.132: I/System.out(27504): Time: Tue Mar 25 13:44:02 EDT 2014 Latitude: 45.4205699 Longitude:-75.6807157 Accuracy:43.008
+03-25 13:44:04.113: I/System.out(27504): location update: 45.420571 -75.6807232
+03-25 13:44:04.133: D/Network(27504): Network
+03-25 13:44:04.133: I/System.out(27504): Time: Tue Mar 25 13:44:04 EDT 2014 Latitude: 45.420571 Longitude:-75.6807232 Accuracy:42.958
+03-25 13:44:05.114: I/System.out(27504): location update: 45.4205295 -75.6806837
+03-25 13:44:05.134: D/Network(27504): Network
+03-25 13:44:05.134: I/System.out(27504): Time: Tue Mar 25 13:44:05 EDT 2014 Latitude: 45.4205295 Longitude:-75.6806837 Accuracy:40.205
+03-25 13:44:06.065: I/System.out(27504): location update: 45.420604 -75.6807102
+03-25 13:44:06.135: D/Network(27504): Network
+03-25 13:44:06.135: I/System.out(27504): Time: Tue Mar 25 13:44:06 EDT 2014 Latitude: 45.420604 Longitude:-75.6807102 Accuracy:23.116
+03-25 13:44:06.966: I/System.out(27504): location update: 45.4206283 -75.6807421
+03-25 13:44:07.136: D/Network(27504): Network
+03-25 13:44:07.136: I/System.out(27504): Time: Tue Mar 25 13:44:06 EDT 2014 Latitude: 45.4206283 Longitude:-75.6807421 Accuracy:23.0
+03-25 13:44:07.937: I/System.out(27504): location update: 45.4206071 -75.6807167
+03-25 13:44:08.137: D/Network(27504): Network
+03-25 13:44:08.137: I/System.out(27504): Time: Tue Mar 25 13:44:07 EDT 2014 Latitude: 45.4206071 Longitude:-75.6807167 Accuracy:24.11
+03-25 13:44:09.138: D/Network(27504): Network
+03-25 13:44:09.138: I/System.out(27504): Time: Tue Mar 25 13:44:07 EDT 2014 Latitude: 45.4206071 Longitude:-75.6807167 Accuracy:24.11
+03-25 13:44:09.188: I/System.out(27504): location update: 45.4206306 -75.6807169
+03-25 13:44:10.139: D/Network(27504): Network
+03-25 13:44:10.139: I/System.out(27504): Time: Tue Mar 25 13:44:09 EDT 2014 Latitude: 45.4206306 Longitude:-75.6807169 Accuracy:47.193
+03-25 13:44:11.000: I/System.out(27504): location update: 45.4206696 -75.6807556
+03-25 13:44:11.130: D/Network(27504): Network
+03-25 13:44:11.130: I/System.out(27504): Time: Tue Mar 25 13:44:10 EDT 2014 Latitude: 45.4206696 Longitude:-75.6807556 Accuracy:51.276
+03-25 13:44:12.021: I/System.out(27504): location update: 45.4206348 -75.680745
+03-25 13:44:12.132: D/Network(27504): Network
+03-25 13:44:12.132: I/System.out(27504): Time: Tue Mar 25 13:44:11 EDT 2014 Latitude: 45.4206348 Longitude:-75.680745 Accuracy:48.284
+03-25 13:44:12.922: I/System.out(27504): location update: 45.4206227 -75.6807119
+03-25 13:44:13.143: D/Network(27504): Network
+03-25 13:44:13.143: I/System.out(27504): Time: Tue Mar 25 13:44:12 EDT 2014 Latitude: 45.4206227 Longitude:-75.6807119 Accuracy:47.754
+03-25 13:44:14.114: I/System.out(27504): location update: 45.4206032 -75.6807124
+03-25 13:44:14.134: D/Network(27504): Network
+03-25 13:44:14.134: I/System.out(27504): Time: Tue Mar 25 13:44:14 EDT 2014 Latitude: 45.4206032 Longitude:-75.6807124 Accuracy:46.015
+03-25 13:44:15.065: I/System.out(27504): location update: 45.4205473 -75.6806719
+03-25 13:44:15.135: D/Network(27504): Network
+03-25 13:44:15.135: I/System.out(27504): Time: Tue Mar 25 13:44:15 EDT 2014 Latitude: 45.4205473 Longitude:-75.6806719 Accuracy:42.021
+03-25 13:44:15.976: I/System.out(27504): location update: 45.4205338 -75.6806673
+03-25 13:44:16.136: D/Network(27504): Network
+03-25 13:44:16.146: I/System.out(27504): Time: Tue Mar 25 13:44:15 EDT 2014 Latitude: 45.4205338 Longitude:-75.6806673 Accuracy:40.987
+03-25 13:44:16.967: I/System.out(27504): location update: 45.4205148 -75.68062
+03-25 13:44:17.137: D/Network(27504): Network
+03-25 13:44:17.137: I/System.out(27504): Time: Tue Mar 25 13:44:16 EDT 2014 Latitude: 45.4205148 Longitude:-75.68062 Accuracy:34.19
+03-25 13:44:17.988: I/System.out(27504): location update: 45.4205148 -75.68062
+03-25 13:44:18.138: D/Network(27504): Network
+03-25 13:44:18.138: I/System.out(27504): Time: Tue Mar 25 13:44:17 EDT 2014 Latitude: 45.4205148 Longitude:-75.68062 Accuracy:34.19
+03-25 13:44:18.889: I/System.out(27504): location update: 45.420401 -75.6805495
+03-25 13:44:19.139: D/Network(27504): Network
+03-25 13:44:19.149: I/System.out(27504): Time: Tue Mar 25 13:44:18 EDT 2014 Latitude: 45.420401 Longitude:-75.6805495 Accuracy:44.665
+03-25 13:44:19.930: I/System.out(27504): location update: 45.420401 -75.6805495
+03-25 13:44:20.130: D/Network(27504): Network
+03-25 13:44:20.130: I/System.out(27504): Time: Tue Mar 25 13:44:19 EDT 2014 Latitude: 45.420401 Longitude:-75.6805495 Accuracy:44.665
+03-25 13:44:21.011: I/System.out(27504): location update: 45.4203405 -75.680492
+03-25 13:44:21.131: D/Network(27504): Network
+03-25 13:44:21.131: I/System.out(27504): Time: Tue Mar 25 13:44:20 EDT 2014 Latitude: 45.4203405 Longitude:-75.680492 Accuracy:33.0
+03-25 13:44:21.922: I/System.out(27504): location update: 45.4203193 -75.6804746
+03-25 13:44:22.132: D/Network(27504): Network
+03-25 13:44:22.132: I/System.out(27504): Time: Tue Mar 25 13:44:21 EDT 2014 Latitude: 45.4203193 Longitude:-75.6804746 Accuracy:37.5
+03-25 13:44:22.873: I/System.out(27504): location update: 45.4204251 -75.6805096
+03-25 13:44:23.133: D/Network(27504): Network
+03-25 13:44:23.133: I/System.out(27504): Time: Tue Mar 25 13:44:22 EDT 2014 Latitude: 45.4204251 Longitude:-75.6805096 Accuracy:37.5
+03-25 13:44:23.984: I/System.out(27504): location update: 45.4204247 -75.6805101
+03-25 13:44:24.134: D/Network(27504): Network
+03-25 13:44:24.134: I/System.out(27504): Time: Tue Mar 25 13:44:23 EDT 2014 Latitude: 45.4204247 Longitude:-75.6805101 Accuracy:37.5
+03-25 13:44:24.875: I/System.out(27504): location update: 45.4205904 -75.6806658
+03-25 13:44:25.135: D/Network(27504): Network
+03-25 13:44:25.135: I/System.out(27504): Time: Tue Mar 25 13:44:24 EDT 2014 Latitude: 45.4205904 Longitude:-75.6806658 Accuracy:46.5
+03-25 13:44:26.136: D/Network(27504): Network
+03-25 13:44:26.136: I/System.out(27504): Time: Tue Mar 25 13:44:24 EDT 2014 Latitude: 45.4205904 Longitude:-75.6806658 Accuracy:46.5
+03-25 13:44:26.377: I/System.out(27504): location update: 45.4209111 -75.6803504
+03-25 13:44:27.138: D/Network(27504): Network
+03-25 13:44:27.138: I/System.out(27504): Time: Tue Mar 25 13:44:26 EDT 2014 Latitude: 45.4209111 Longitude:-75.6803504 Accuracy:45.11
+03-25 13:44:27.998: I/System.out(27504): location update: 45.4208894 -75.6804226
+03-25 13:44:28.139: D/Network(27504): Network
+03-25 13:44:28.139: I/System.out(27504): Time: Tue Mar 25 13:44:27 EDT 2014 Latitude: 45.4208894 Longitude:-75.6804226 Accuracy:36.124
+03-25 13:44:29.060: I/System.out(27504): location update: 45.4208823 -75.6804251
+03-25 13:44:29.130: D/Network(27504): Network
+03-25 13:44:29.130: I/System.out(27504): Time: Tue Mar 25 13:44:29 EDT 2014 Latitude: 45.4208823 Longitude:-75.6804251 Accuracy:36.523
+03-25 13:44:30.021: I/System.out(27504): location update: 45.4208374 -75.6804192
+03-25 13:44:30.131: D/Network(27504): Network
+03-25 13:44:30.131: I/System.out(27504): Time: Tue Mar 25 13:44:29 EDT 2014 Latitude: 45.4208374 Longitude:-75.6804192 Accuracy:37.976
+03-25 13:44:30.862: I/System.out(27504): location update: 45.4208137 -75.6804289
+03-25 13:44:31.132: D/Network(27504): Network
+03-25 13:44:31.132: I/System.out(27504): Time: Tue Mar 25 13:44:30 EDT 2014 Latitude: 45.4208137 Longitude:-75.6804289 Accuracy:39.613
+03-25 13:44:31.873: I/System.out(27504): location update: 45.42084 -75.6804903
+03-25 13:44:32.133: D/Network(27504): Network
+03-25 13:44:32.133: I/System.out(27504): Time: Tue Mar 25 13:44:31 EDT 2014 Latitude: 45.42084 Longitude:-75.6804903 Accuracy:56.334
+03-25 13:44:32.894: I/System.out(27504): location update: 45.4208127 -75.6804252
+03-25 13:44:33.134: D/Network(27504): Network
+03-25 13:44:33.144: I/System.out(27504): Time: Tue Mar 25 13:44:32 EDT 2014 Latitude: 45.4208127 Longitude:-75.6804252 Accuracy:68.142
+03-25 13:44:33.845: I/System.out(27504): location update: 45.420801 -75.6804341
+03-25 13:44:34.135: D/Network(27504): Network
+03-25 13:44:34.135: I/System.out(27504): Time: Tue Mar 25 13:44:33 EDT 2014 Latitude: 45.420801 Longitude:-75.6804341 Accuracy:67.039
+03-25 13:44:34.896: I/System.out(27504): location update: 45.4207827 -75.6803539
+03-25 13:44:35.136: D/Network(27504): Network
+03-25 13:44:35.136: I/System.out(27504): Time: Tue Mar 25 13:44:34 EDT 2014 Latitude: 45.4207827 Longitude:-75.6803539 Accuracy:65.716
+03-25 13:44:35.887: I/System.out(27504): location update: 45.4208082 -75.6803271
+03-25 13:44:36.137: D/Network(27504): Network
+03-25 13:44:36.137: I/System.out(27504): Time: Tue Mar 25 13:44:35 EDT 2014 Latitude: 45.4208082 Longitude:-75.6803271 Accuracy:68.272
+03-25 13:44:36.868: I/System.out(27504): location update: 45.4208189 -75.6803166
+03-25 13:44:37.138: D/Network(27504): Network
+03-25 13:44:37.138: I/System.out(27504): Time: Tue Mar 25 13:44:36 EDT 2014 Latitude: 45.4208189 Longitude:-75.6803166 Accuracy:69.346
+03-25 13:44:38.069: I/System.out(27504): location update: 45.4207991 -75.6803327
+03-25 13:44:38.139: D/Network(27504): Network
+03-25 13:44:38.139: I/System.out(27504): Time: Tue Mar 25 13:44:38 EDT 2014 Latitude: 45.4207991 Longitude:-75.6803327 Accuracy:67.389
+03-25 13:44:38.900: I/System.out(27504): location update: 45.4208043 -75.6803469
+03-25 13:44:39.130: D/Network(27504): Network
+03-25 13:44:39.130: I/System.out(27504): Time: Tue Mar 25 13:44:38 EDT 2014 Latitude: 45.4208043 Longitude:-75.6803469 Accuracy:51.544
+03-25 13:44:40.001: I/System.out(27504): location update: 45.4207796 -75.6803667
+03-25 13:44:40.131: D/Network(27504): Network
+03-25 13:44:40.131: I/System.out(27504): Time: Tue Mar 25 13:44:39 EDT 2014 Latitude: 45.4207796 Longitude:-75.6803667 Accuracy:54.09
+03-25 13:44:40.992: I/System.out(27504): location update: 45.4207377 -75.6804301
+03-25 13:44:41.132: D/Network(27504): Network
+03-25 13:44:41.132: I/System.out(27504): Time: Tue Mar 25 13:44:40 EDT 2014 Latitude: 45.4207377 Longitude:-75.6804301 Accuracy:30.0
+03-25 13:44:41.923: I/System.out(27504): location update: 45.4207828 -75.6804031
+03-25 13:44:42.134: D/Network(27504): Network
+03-25 13:44:42.134: I/System.out(27504): Time: Tue Mar 25 13:44:41 EDT 2014 Latitude: 45.4207828 Longitude:-75.6804031 Accuracy:30.0
+03-25 13:44:42.974: I/System.out(27504): location update: 45.4207894 -75.6803637
+03-25 13:44:43.135: D/Network(27504): Network
+03-25 13:44:43.135: I/System.out(27504): Time: Tue Mar 25 13:44:42 EDT 2014 Latitude: 45.4207894 Longitude:-75.6803637 Accuracy:30.0
+03-25 13:44:43.895: I/System.out(27504): location update: 45.4207837 -75.6803613
+03-25 13:44:44.136: D/Network(27504): Network
+03-25 13:44:44.136: I/System.out(27504): Time: Tue Mar 25 13:44:43 EDT 2014 Latitude: 45.4207837 Longitude:-75.6803613 Accuracy:30.0
+03-25 13:44:44.907: I/System.out(27504): location update: 45.4207837 -75.6803613
+03-25 13:44:45.137: D/Network(27504): Network
+03-25 13:44:45.137: I/System.out(27504): Time: Tue Mar 25 13:44:44 EDT 2014 Latitude: 45.4207837 Longitude:-75.6803613 Accuracy:30.0
+03-25 13:44:45.928: I/System.out(27504): location update: 45.4208182 -75.6803627
+03-25 13:44:46.138: D/Network(27504): Network
+03-25 13:44:46.138: I/System.out(27504): Time: Tue Mar 25 13:44:45 EDT 2014 Latitude: 45.4208182 Longitude:-75.6803627 Accuracy:30.0
+03-25 13:44:46.929: I/System.out(27504): location update: 45.4207583 -75.680343
+03-25 13:44:47.139: D/Network(27504): Network
+03-25 13:44:47.159: I/System.out(27504): Time: Tue Mar 25 13:44:46 EDT 2014 Latitude: 45.4207583 Longitude:-75.680343 Accuracy:30.0
+03-25 13:44:47.900: I/System.out(27504): location update: 45.4206491 -75.6803411
+03-25 13:44:48.130: D/Network(27504): Network
+03-25 13:44:48.130: I/System.out(27504): Time: Tue Mar 25 13:44:47 EDT 2014 Latitude: 45.4206491 Longitude:-75.6803411 Accuracy:40.5
+03-25 13:44:48.901: I/System.out(27504): location update: 45.4206468 -75.6803399
+03-25 13:44:49.131: D/Network(27504): Network
+03-25 13:44:49.131: I/System.out(27504): Time: Tue Mar 25 13:44:48 EDT 2014 Latitude: 45.4206468 Longitude:-75.6803399 Accuracy:40.5
+03-25 13:44:49.912: I/System.out(27504): location update: 45.420645 -75.6803432
+03-25 13:44:50.132: D/Network(27504): Network
+03-25 13:44:50.142: I/System.out(27504): Time: Tue Mar 25 13:44:49 EDT 2014 Latitude: 45.420645 Longitude:-75.6803432 Accuracy:43.5
+03-25 13:44:50.883: I/System.out(27504): location update: 45.4206373 -75.6803664
+03-25 13:44:51.143: D/dalvikvm(27504): GC_FOR_ALLOC freed 512K, 11% free 9176K/10200K, paused 14ms, total 14ms
+03-25 13:44:51.143: D/Network(27504): Network
+03-25 13:44:51.143: I/System.out(27504): Time: Tue Mar 25 13:44:50 EDT 2014 Latitude: 45.4206373 Longitude:-75.6803664 Accuracy:39.0
+03-25 13:44:51.884: I/System.out(27504): location update: 45.4206484 -75.6803536
+03-25 13:44:52.134: D/Network(27504): Network
+03-25 13:44:52.134: I/System.out(27504): Time: Tue Mar 25 13:44:51 EDT 2014 Latitude: 45.4206484 Longitude:-75.6803536 Accuracy:40.5
+03-25 13:44:52.865: I/System.out(27504): location update: 45.4204986 -75.6802924
+03-25 13:44:53.135: D/Network(27504): Network
+03-25 13:44:53.135: I/System.out(27504): Time: Tue Mar 25 13:44:52 EDT 2014 Latitude: 45.4204986 Longitude:-75.6802924 Accuracy:40.5
+03-25 13:44:53.876: I/System.out(27504): location update: 45.420517 -75.68028
+03-25 13:44:54.136: D/Network(27504): Network
+03-25 13:44:54.136: I/System.out(27504): Time: Tue Mar 25 13:44:53 EDT 2014 Latitude: 45.420517 Longitude:-75.68028 Accuracy:43.5
+03-25 13:44:54.857: I/System.out(27504): location update: 45.4205074 -75.6802849
+03-25 13:44:55.147: D/Network(27504): Network
+03-25 13:44:55.147: I/System.out(27504): Time: Tue Mar 25 13:44:54 EDT 2014 Latitude: 45.4205074 Longitude:-75.6802849 Accuracy:40.5
+03-25 13:44:55.938: I/System.out(27504): location update: 45.4205001 -75.6802908
+03-25 13:44:56.138: D/Network(27504): Network
+03-25 13:44:56.138: I/System.out(27504): Time: Tue Mar 25 13:44:55 EDT 2014 Latitude: 45.4205001 Longitude:-75.6802908 Accuracy:37.5
+03-25 13:44:57.140: D/Network(27504): Network
+03-25 13:44:57.140: I/System.out(27504): Time: Tue Mar 25 13:44:55 EDT 2014 Latitude: 45.4205001 Longitude:-75.6802908 Accuracy:37.5
+03-25 13:44:57.550: I/System.out(27504): location update: 45.4204899 -75.6796091
+03-25 13:44:58.131: D/Network(27504): Network
+03-25 13:44:58.131: I/System.out(27504): Time: Tue Mar 25 13:44:57 EDT 2014 Latitude: 45.4204899 Longitude:-75.6796091 Accuracy:46.07
+03-25 13:44:58.921: I/System.out(27504): location update: 45.4200517 -75.6794363
+03-25 13:44:59.132: D/Network(27504): Network
+03-25 13:44:59.132: I/System.out(27504): Time: Tue Mar 25 13:44:58 EDT 2014 Latitude: 45.4200517 Longitude:-75.6794363 Accuracy:54.068
+03-25 13:45:00.143: D/Network(27504): Network
+03-25 13:45:00.143: I/System.out(27504): Time: Tue Mar 25 13:44:58 EDT 2014 Latitude: 45.4200517 Longitude:-75.6794363 Accuracy:54.068
+03-25 13:45:00.193: I/System.out(27504): location update: 45.4200664 -75.6796646
+03-25 13:45:01.134: D/Network(27504): Network
+03-25 13:45:01.134: I/System.out(27504): Time: Tue Mar 25 13:44:59 EDT 2014 Latitude: 45.4200664 Longitude:-75.6796646 Accuracy:61.955
+03-25 13:45:01.905: I/System.out(27504): location update: 45.4200653 -75.679861
+03-25 13:45:02.135: D/Network(27504): Network
+03-25 13:45:02.135: I/System.out(27504): Time: Tue Mar 25 13:45:01 EDT 2014 Latitude: 45.4200653 Longitude:-75.679861 Accuracy:61.955
+03-25 13:45:02.996: I/System.out(27504): location update: 45.4200668 -75.6798624
+03-25 13:45:03.136: D/Network(27504): Network
+03-25 13:45:03.136: I/System.out(27504): Time: Tue Mar 25 13:45:02 EDT 2014 Latitude: 45.4200668 Longitude:-75.6798624 Accuracy:61.793
+03-25 13:45:03.947: I/System.out(27504): location update: 45.4201925 -75.6800275
+03-25 13:45:04.147: D/Network(27504): Network
+03-25 13:45:04.147: I/System.out(27504): Time: Tue Mar 25 13:45:03 EDT 2014 Latitude: 45.4201925 Longitude:-75.6800275 Accuracy:45.984
+03-25 13:45:04.948: I/System.out(27504): location update: 45.4201925 -75.6800275
+03-25 13:45:05.138: D/Network(27504): Network
+03-25 13:45:05.138: I/System.out(27504): Time: Tue Mar 25 13:45:04 EDT 2014 Latitude: 45.4201925 Longitude:-75.6800275 Accuracy:45.984
+03-25 13:45:05.899: I/System.out(27504): location update: 45.4204127 -75.6800949
+03-25 13:45:06.139: D/Network(27504): Network
+03-25 13:45:06.139: I/System.out(27504): Time: Tue Mar 25 13:45:05 EDT 2014 Latitude: 45.4204127 Longitude:-75.6800949 Accuracy:59.539
+03-25 13:45:06.930: I/System.out(27504): location update: 45.4204074 -75.6800285
+03-25 13:45:07.130: D/Network(27504): Network
+03-25 13:45:07.130: I/System.out(27504): Time: Tue Mar 25 13:45:06 EDT 2014 Latitude: 45.4204074 Longitude:-75.6800285 Accuracy:55.856
+03-25 13:45:07.911: I/System.out(27504): location update: 45.4203923 -75.6798512
+03-25 13:45:08.131: D/Network(27504): Network
+03-25 13:45:08.131: I/System.out(27504): Time: Tue Mar 25 13:45:07 EDT 2014 Latitude: 45.4203923 Longitude:-75.6798512 Accuracy:46.519
+03-25 13:45:08.992: I/System.out(27504): location update: 45.4204233 -75.6797174
+03-25 13:45:09.132: D/Network(27504): Network
+03-25 13:45:09.132: I/System.out(27504): Time: Tue Mar 25 13:45:08 EDT 2014 Latitude: 45.4204233 Longitude:-75.6797174 Accuracy:46.297
+03-25 13:45:09.963: I/System.out(27504): location update: 45.4204938 -75.6797468
+03-25 13:45:10.133: D/Network(27504): Network
+03-25 13:45:10.133: I/System.out(27504): Time: Tue Mar 25 13:45:09 EDT 2014 Latitude: 45.4204938 Longitude:-75.6797468 Accuracy:50.155
+03-25 13:45:11.084: I/System.out(27504): location update: 45.4203761 -75.6799836
+03-25 13:45:11.134: D/Network(27504): Network
+03-25 13:45:11.134: I/System.out(27504): Time: Tue Mar 25 13:45:11 EDT 2014 Latitude: 45.4203761 Longitude:-75.6799836 Accuracy:51.76
+03-25 13:45:12.025: I/System.out(27504): location update: 45.4203897 -75.6800372
+03-25 13:45:12.136: D/Network(27504): Network
+03-25 13:45:12.136: I/System.out(27504): Time: Tue Mar 25 13:45:11 EDT 2014 Latitude: 45.4203897 Longitude:-75.6800372 Accuracy:52.11
+03-25 13:45:12.926: I/System.out(27504): location update: 45.4203755 -75.6799048
+03-25 13:45:13.137: D/Network(27504): Network
+03-25 13:45:13.137: I/System.out(27504): Time: Tue Mar 25 13:45:12 EDT 2014 Latitude: 45.4203755 Longitude:-75.6799048 Accuracy:44.608
+03-25 13:45:14.148: D/Network(27504): Network
+03-25 13:45:14.148: I/System.out(27504): Time: Tue Mar 25 13:45:12 EDT 2014 Latitude: 45.4203755 Longitude:-75.6799048 Accuracy:49.184
+03-25 13:45:14.158: I/System.out(27504): location update: 45.420356 -75.6799558
+03-25 13:45:15.079: I/System.out(27504): location update: 45.4203911 -75.6796912
+03-25 13:45:15.139: D/Network(27504): Network
+03-25 13:45:15.139: I/System.out(27504): Time: Tue Mar 25 13:45:15 EDT 2014 Latitude: 45.4203911 Longitude:-75.6796912 Accuracy:40.126
+03-25 13:45:16.020: I/System.out(27504): location update: 45.420278 -75.6798132
+03-25 13:45:16.130: D/Network(27504): Network
+03-25 13:45:16.130: I/System.out(27504): Time: Tue Mar 25 13:45:15 EDT 2014 Latitude: 45.420278 Longitude:-75.6798132 Accuracy:37.436
+03-25 13:45:16.941: I/System.out(27504): location update: 45.4203562 -75.6796984
+03-25 13:45:17.131: D/Network(27504): Network
+03-25 13:45:17.131: I/System.out(27504): Time: Tue Mar 25 13:45:16 EDT 2014 Latitude: 45.4203562 Longitude:-75.6796984 Accuracy:37.68
+03-25 13:45:18.042: I/System.out(27504): location update: 45.4203657 -75.6796721
+03-25 13:45:18.132: D/Network(27504): Network
+03-25 13:45:18.132: I/System.out(27504): Time: Tue Mar 25 13:45:17 EDT 2014 Latitude: 45.4203657 Longitude:-75.6796721 Accuracy:37.473
+03-25 13:45:19.053: I/System.out(27504): location update: 45.4203524 -75.6797049
+03-25 13:45:19.133: D/Network(27504): Network
+03-25 13:45:19.133: I/System.out(27504): Time: Tue Mar 25 13:45:19 EDT 2014 Latitude: 45.4203524 Longitude:-75.6797049 Accuracy:37.636
+03-25 13:45:20.044: I/System.out(27504): location update: 45.4203734 -75.6796938
+03-25 13:45:20.134: D/Network(27504): Network
+03-25 13:45:20.134: I/System.out(27504): Time: Tue Mar 25 13:45:19 EDT 2014 Latitude: 45.4203734 Longitude:-75.6796938 Accuracy:38.833
+03-25 13:45:20.995: I/System.out(27504): location update: 45.4204094 -75.6796593
+03-25 13:45:21.135: D/Network(27504): Network
+03-25 13:45:21.135: I/System.out(27504): Time: Tue Mar 25 13:45:20 EDT 2014 Latitude: 45.4204094 Longitude:-75.6796593 Accuracy:40.567
+03-25 13:45:22.036: I/System.out(27504): location update: 45.4204813 -75.6796635
+03-25 13:45:22.136: D/Network(27504): Network
+03-25 13:45:22.136: I/System.out(27504): Time: Tue Mar 25 13:45:21 EDT 2014 Latitude: 45.4204813 Longitude:-75.6796635 Accuracy:46.667
+03-25 13:45:23.037: I/System.out(27504): location update: 45.4204675 -75.6796847
+03-25 13:45:23.137: D/Network(27504): Network
+03-25 13:45:23.137: I/System.out(27504): Time: Tue Mar 25 13:45:23 EDT 2014 Latitude: 45.4204675 Longitude:-75.6796847 Accuracy:46.107
+03-25 13:45:24.138: D/Network(27504): Network
+03-25 13:45:24.138: I/System.out(27504): Time: Tue Mar 25 13:45:23 EDT 2014 Latitude: 45.4204675 Longitude:-75.6796847 Accuracy:46.107
+03-25 13:45:24.218: I/System.out(27504): location update: 45.4204291 -75.6797011
+03-25 13:45:25.139: D/Network(27504): Network
+03-25 13:45:25.139: I/System.out(27504): Time: Tue Mar 25 13:45:24 EDT 2014 Latitude: 45.4204291 Longitude:-75.6797011 Accuracy:40.77
+03-25 13:45:26.050: I/System.out(27504): location update: 45.4204088 -75.6796458
+03-25 13:45:26.130: D/Network(27504): Network
+03-25 13:45:26.130: I/System.out(27504): Time: Tue Mar 25 13:45:26 EDT 2014 Latitude: 45.4204088 Longitude:-75.6796458 Accuracy:40.114
+03-25 13:45:27.011: I/System.out(27504): location update: 45.4204177 -75.6796551
+03-25 13:45:27.132: D/Network(27504): Network
+03-25 13:45:27.132: I/System.out(27504): Time: Tue Mar 25 13:45:26 EDT 2014 Latitude: 45.4204177 Longitude:-75.6796551 Accuracy:41.123
+03-25 13:45:27.962: I/System.out(27504): location update: 45.4203856 -75.6796782
+03-25 13:45:28.133: D/Network(27504): Network
+03-25 13:45:28.133: I/System.out(27504): Time: Tue Mar 25 13:45:27 EDT 2014 Latitude: 45.4203856 Longitude:-75.6796782 Accuracy:39.252
+03-25 13:45:28.974: I/System.out(27504): location update: 45.4203328 -75.679765
+03-25 13:45:29.134: D/Network(27504): Network
+03-25 13:45:29.134: I/System.out(27504): Time: Tue Mar 25 13:45:28 EDT 2014 Latitude: 45.4203328 Longitude:-75.679765 Accuracy:38.673
+03-25 13:45:30.125: I/System.out(27504): location update: 45.42036 -75.679722
+03-25 13:45:30.135: D/Network(27504): Network
+03-25 13:45:30.135: I/System.out(27504): Time: Tue Mar 25 13:45:30 EDT 2014 Latitude: 45.42036 Longitude:-75.679722 Accuracy:38.86
+03-25 13:45:31.076: I/System.out(27504): location update: 45.4203464 -75.6799943
+03-25 13:45:31.136: D/Network(27504): Network
+03-25 13:45:31.136: I/System.out(27504): Time: Tue Mar 25 13:45:31 EDT 2014 Latitude: 45.4203464 Longitude:-75.6799943 Accuracy:45.0
+03-25 13:45:32.077: I/System.out(27504): location update: 45.4202937 -75.6800383
+03-25 13:45:32.137: D/Network(27504): Network
+03-25 13:45:32.137: I/System.out(27504): Time: Tue Mar 25 13:45:32 EDT 2014 Latitude: 45.4202937 Longitude:-75.6800383 Accuracy:48.0
+03-25 13:45:33.108: I/System.out(27504): location update: 45.4203331 -75.6799906
+03-25 13:45:33.138: D/Network(27504): Network
+03-25 13:45:33.138: I/System.out(27504): Time: Tue Mar 25 13:45:33 EDT 2014 Latitude: 45.4203331 Longitude:-75.6799906 Accuracy:35.482
+03-25 13:45:34.029: I/System.out(27504): location update: 45.4203347 -75.6799859
+03-25 13:45:34.139: D/Network(27504): Network
+03-25 13:45:34.139: I/System.out(27504): Time: Tue Mar 25 13:45:34 EDT 2014 Latitude: 45.4203347 Longitude:-75.6799859 Accuracy:35.764
+03-25 13:45:35.120: I/System.out(27504): location update: 45.4201833 -75.680131
+03-25 13:45:35.130: D/Network(27504): Network
+03-25 13:45:35.130: I/System.out(27504): Time: Tue Mar 25 13:45:35 EDT 2014 Latitude: 45.4201833 Longitude:-75.680131 Accuracy:49.5
+03-25 13:45:36.041: I/System.out(27504): location update: 45.419498 -75.680389
+03-25 13:45:36.131: D/Network(27504): Network
+03-25 13:45:36.131: I/System.out(27504): Time: Tue Mar 25 13:45:36 EDT 2014 Latitude: 45.419498 Longitude:-75.680389 Accuracy:50.283
+03-25 13:45:37.072: I/System.out(27504): location update: 45.4195908 -75.6803526
+03-25 13:45:37.132: D/Network(27504): Network
+03-25 13:45:37.132: I/System.out(27504): Time: Tue Mar 25 13:45:37 EDT 2014 Latitude: 45.4195908 Longitude:-75.6803526 Accuracy:63.0
+03-25 13:45:38.133: I/System.out(27504): location update: 45.4196796 -75.6803016
+03-25 13:45:38.133: D/Network(27504): Network
+03-25 13:45:38.133: I/System.out(27504): Time: Tue Mar 25 13:45:37 EDT 2014 Latitude: 45.4195908 Longitude:-75.6803526 Accuracy:52.5
+03-25 13:45:39.094: I/System.out(27504): location update: 45.4196294 -75.6803095
+03-25 13:45:39.134: D/Network(27504): Network
+03-25 13:45:39.134: I/System.out(27504): Time: Tue Mar 25 13:45:39 EDT 2014 Latitude: 45.4196294 Longitude:-75.6803095 Accuracy:57.0
+03-25 13:45:40.045: I/System.out(27504): location update: 45.4195463 -75.6803734
+03-25 13:45:40.135: D/Network(27504): Network
+03-25 13:45:40.135: I/System.out(27504): Time: Tue Mar 25 13:45:40 EDT 2014 Latitude: 45.4195463 Longitude:-75.6803734 Accuracy:45.721
+03-25 13:45:41.137: D/Network(27504): Network
+03-25 13:45:41.137: I/System.out(27504): location update: 45.4195216 -75.6803828
+03-25 13:45:41.137: I/System.out(27504): Time: Tue Mar 25 13:45:40 EDT 2014 Latitude: 45.4195463 Longitude:-75.6803734 Accuracy:48.083
+03-25 13:45:42.138: D/Network(27504): Network
+03-25 13:45:42.138: I/System.out(27504): Time: Tue Mar 25 13:45:41 EDT 2014 Latitude: 45.4195216 Longitude:-75.6803828 Accuracy:48.083
+03-25 13:45:42.308: I/System.out(27504): location update: 45.4195451 -75.6804253
+03-25 13:45:43.139: D/Network(27504): Network
+03-25 13:45:43.139: I/System.out(27504): Time: Tue Mar 25 13:45:42 EDT 2014 Latitude: 45.4195451 Longitude:-75.6804253 Accuracy:47.027
+03-25 13:45:43.229: I/System.out(27504): location update: 45.4195549 -75.6804427
+03-25 13:45:44.130: D/Network(27504): Network
+03-25 13:45:44.130: I/System.out(27504): Time: Tue Mar 25 13:45:43 EDT 2014 Latitude: 45.4195549 Longitude:-75.6804427 Accuracy:46.649
+03-25 13:45:44.240: I/System.out(27504): location update: 45.4195489 -75.6804434
+03-25 13:45:45.131: D/Network(27504): Network
+03-25 13:45:45.131: I/System.out(27504): Time: Tue Mar 25 13:45:44 EDT 2014 Latitude: 45.4195489 Longitude:-75.6804434 Accuracy:47.174
+03-25 13:45:45.231: I/System.out(27504): location update: 45.4195925 -75.6804321
+03-25 13:45:46.132: D/Network(27504): Network
+03-25 13:45:46.132: I/System.out(27504): Time: Tue Mar 25 13:45:45 EDT 2014 Latitude: 45.4195925 Longitude:-75.6804321 Accuracy:43.203
+03-25 13:45:46.352: I/System.out(27504): location update: 45.4194521 -75.6804587
+03-25 13:45:47.163: D/Network(27504): Network
+03-25 13:45:47.173: I/System.out(27504): Time: Tue Mar 25 13:45:46 EDT 2014 Latitude: 45.4194521 Longitude:-75.6804587 Accuracy:55.824
+03-25 13:45:47.423: I/System.out(27504): location update: 45.4195276 -75.6804384
+03-25 13:45:48.134: D/Network(27504): Network
+03-25 13:45:48.134: I/System.out(27504): Time: Tue Mar 25 13:45:47 EDT 2014 Latitude: 45.4195276 Longitude:-75.6804384 Accuracy:48.851
+03-25 13:45:48.274: I/System.out(27504): location update: 45.4194952 -75.6804399
+03-25 13:45:49.135: D/Network(27504): Network
+03-25 13:45:49.135: I/System.out(27504): Time: Tue Mar 25 13:45:48 EDT 2014 Latitude: 45.4194952 Longitude:-75.6804399 Accuracy:51.663
+03-25 13:45:50.146: D/Network(27504): Network
+03-25 13:45:50.146: I/System.out(27504): Time: Tue Mar 25 13:45:48 EDT 2014 Latitude: 45.4194952 Longitude:-75.6804399 Accuracy:51.301
+03-25 13:45:50.146: I/System.out(27504): location update: 45.4195013 -75.6804465
+03-25 13:45:51.137: D/Network(27504): Network
+03-25 13:45:51.137: I/System.out(27504): Time: Tue Mar 25 13:45:50 EDT 2014 Latitude: 45.4195013 Longitude:-75.6804465 Accuracy:51.301
+03-25 13:45:51.257: I/System.out(27504): location update: 45.419479 -75.6804009
+03-25 13:45:52.138: D/Network(27504): Network
+03-25 13:45:52.138: I/System.out(27504): Time: Tue Mar 25 13:45:51 EDT 2014 Latitude: 45.419479 Longitude:-75.6804009 Accuracy:52.197
+03-25 13:45:52.178: I/System.out(27504): location update: 45.4194544 -75.680406
+03-25 13:45:53.139: D/Network(27504): Network
+03-25 13:45:53.139: I/System.out(27504): Time: Tue Mar 25 13:45:52 EDT 2014 Latitude: 45.4194544 Longitude:-75.680406 Accuracy:54.463
+03-25 13:45:53.199: I/System.out(27504): location update: 45.4195148 -75.6804233
+03-25 13:45:54.130: D/Network(27504): Network
+03-25 13:45:54.130: I/System.out(27504): Time: Tue Mar 25 13:45:53 EDT 2014 Latitude: 45.4195148 Longitude:-75.6804233 Accuracy:56.258
+03-25 13:45:55.121: I/System.out(27504): location update: 45.4195223 -75.6804458
+03-25 13:45:55.131: D/Network(27504): Network
+03-25 13:45:55.131: I/System.out(27504): Time: Tue Mar 25 13:45:55 EDT 2014 Latitude: 45.4195223 Longitude:-75.6804458 Accuracy:49.491
+03-25 13:45:56.062: I/System.out(27504): location update: 45.4195101 -75.6804448
+03-25 13:45:56.133: D/Network(27504): Network
+03-25 13:45:56.133: I/System.out(27504): Time: Tue Mar 25 13:45:56 EDT 2014 Latitude: 45.4195101 Longitude:-75.6804448 Accuracy:50.506
+03-25 13:45:57.013: I/System.out(27504): location update: 45.4195021 -75.6804461
+03-25 13:45:57.134: D/Network(27504): Network
+03-25 13:45:57.134: I/System.out(27504): Time: Tue Mar 25 13:45:56 EDT 2014 Latitude: 45.4195021 Longitude:-75.6804461 Accuracy:51.222
+03-25 13:45:58.145: D/Network(27504): Network
+03-25 13:45:58.145: I/System.out(27504): Time: Tue Mar 25 13:45:56 EDT 2014 Latitude: 45.4195021 Longitude:-75.6804461 Accuracy:51.491
+03-25 13:45:58.155: I/System.out(27504): location update: 45.4194963 -75.6804367
+03-25 13:45:59.136: I/System.out(27504): location update: 45.4195052 -75.6804644
+03-25 13:45:59.136: D/Network(27504): Network
+03-25 13:45:59.136: I/System.out(27504): Time: Tue Mar 25 13:45:58 EDT 2014 Latitude: 45.4194963 Longitude:-75.6804367 Accuracy:51.426
+03-25 13:46:00.117: I/System.out(27504): location update: 45.4195018 -75.6804452
+03-25 13:46:00.137: D/Network(27504): Network
+03-25 13:46:00.137: I/System.out(27504): Time: Tue Mar 25 13:46:00 EDT 2014 Latitude: 45.4195018 Longitude:-75.6804452 Accuracy:51.226
+03-25 13:46:01.088: I/System.out(27504): location update: 45.4195419 -75.6804761
+03-25 13:46:01.138: D/Network(27504): Network
+03-25 13:46:01.138: I/System.out(27504): Time: Tue Mar 25 13:46:01 EDT 2014 Latitude: 45.4195419 Longitude:-75.6804761 Accuracy:48.667
+03-25 13:46:02.139: D/Network(27504): Network
+03-25 13:46:02.139: I/System.out(27504): Time: Tue Mar 25 13:46:01 EDT 2014 Latitude: 45.4195419 Longitude:-75.6804761 Accuracy:27.0
+03-25 13:46:02.139: I/System.out(27504): location update: 45.4200059 -75.6802439
+03-25 13:46:03.020: I/System.out(27504): location update: 45.4200071 -75.6802569
+03-25 13:46:03.130: D/Network(27504): Network
+03-25 13:46:03.130: I/System.out(27504): Time: Tue Mar 25 13:46:03 EDT 2014 Latitude: 45.4200071 Longitude:-75.6802569 Accuracy:27.0
+03-25 13:46:04.131: D/Network(27504): Network
+03-25 13:46:04.131: I/System.out(27504): Time: Tue Mar 25 13:46:03 EDT 2014 Latitude: 45.4200071 Longitude:-75.6802569 Accuracy:26.0
+03-25 13:46:04.151: I/System.out(27504): location update: 45.4200086 -75.6802626
+03-25 13:46:05.092: I/System.out(27504): location update: 45.4200038 -75.6802774
+03-25 13:46:05.132: D/Network(27504): Network
+03-25 13:46:05.132: I/System.out(27504): Time: Tue Mar 25 13:46:05 EDT 2014 Latitude: 45.4200038 Longitude:-75.6802774 Accuracy:25.0
+03-25 13:46:06.123: I/System.out(27504): location update: 45.4200091 -75.6802604
+03-25 13:46:06.133: D/Network(27504): Network
+03-25 13:46:06.133: I/System.out(27504): Time: Tue Mar 25 13:46:06 EDT 2014 Latitude: 45.4200091 Longitude:-75.6802604 Accuracy:27.0
+03-25 13:46:06.994: I/System.out(27504): location update: 45.4199999 -75.6802292
+03-25 13:46:07.134: D/Network(27504): Network
+03-25 13:46:07.134: I/System.out(27504): Time: Tue Mar 25 13:46:06 EDT 2014 Latitude: 45.4199999 Longitude:-75.6802292 Accuracy:24.0
+03-25 13:46:08.015: I/System.out(27504): location update: 45.4200006 -75.6803238
+03-25 13:46:08.135: D/Network(27504): Network
+03-25 13:46:08.135: I/System.out(27504): Time: Tue Mar 25 13:46:07 EDT 2014 Latitude: 45.4200006 Longitude:-75.6803238 Accuracy:30.833
+03-25 13:46:09.016: I/System.out(27504): location update: 45.4195189 -75.6805543
+03-25 13:46:09.136: D/Network(27504): Network
+03-25 13:46:09.136: I/System.out(27504): Time: Tue Mar 25 13:46:09 EDT 2014 Latitude: 45.4195189 Longitude:-75.6805543 Accuracy:52.948
+03-25 13:46:10.027: I/System.out(27504): location update: 45.419524 -75.68055
+03-25 13:46:10.137: D/Network(27504): Network
+03-25 13:46:10.137: I/System.out(27504): Time: Tue Mar 25 13:46:09 EDT 2014 Latitude: 45.419524 Longitude:-75.68055 Accuracy:52.4
+03-25 13:46:11.108: I/System.out(27504): location update: 45.4195099 -75.6805518
+03-25 13:46:11.139: D/Network(27504): Network
+03-25 13:46:11.149: I/System.out(27504): Time: Tue Mar 25 13:46:11 EDT 2014 Latitude: 45.4195099 Longitude:-75.6805518 Accuracy:53.59
+03-25 13:46:12.019: I/System.out(27504): location update: 45.4195124 -75.6805293
+03-25 13:46:12.140: D/Network(27504): Network
+03-25 13:46:12.140: I/System.out(27504): Time: Tue Mar 25 13:46:11 EDT 2014 Latitude: 45.4195124 Longitude:-75.6805293 Accuracy:52.68
+03-25 13:46:13.031: I/System.out(27504): location update: 45.4195104 -75.6805242
+03-25 13:46:13.131: D/Network(27504): Network
+03-25 13:46:13.131: I/System.out(27504): Time: Tue Mar 25 13:46:13 EDT 2014 Latitude: 45.4195104 Longitude:-75.6805242 Accuracy:52.687
+03-25 13:46:13.982: I/System.out(27504): location update: 45.4195055 -75.6804998
+03-25 13:46:14.132: D/Network(27504): Network
+03-25 13:46:14.132: I/System.out(27504): Time: Tue Mar 25 13:46:13 EDT 2014 Latitude: 45.4195055 Longitude:-75.6804998 Accuracy:52.372
+03-25 13:46:15.133: D/Network(27504): Network
+03-25 13:46:15.133: I/System.out(27504): Time: Tue Mar 25 13:46:13 EDT 2014 Latitude: 45.4195055 Longitude:-75.6804998 Accuracy:52.372
+03-25 13:46:15.203: I/System.out(27504): location update: 45.4195085 -75.6805057
+03-25 13:46:16.134: D/Network(27504): Network
+03-25 13:46:16.134: I/System.out(27504): Time: Tue Mar 25 13:46:15 EDT 2014 Latitude: 45.4195085 Longitude:-75.6805057 Accuracy:46.588
+03-25 13:46:17.045: I/System.out(27504): location update: 45.4195532 -75.6803981
+03-25 13:46:17.135: D/Network(27504): Network
+03-25 13:46:17.135: I/System.out(27504): Time: Tue Mar 25 13:46:17 EDT 2014 Latitude: 45.4195532 Longitude:-75.6803981 Accuracy:45.67
+03-25 13:46:17.986: I/System.out(27504): location update: 45.4195393 -75.6803557
+03-25 13:46:18.136: D/Network(27504): Network
+03-25 13:46:18.136: I/System.out(27504): Time: Tue Mar 25 13:46:17 EDT 2014 Latitude: 45.4195393 Longitude:-75.6803557 Accuracy:45.979
+03-25 13:46:19.047: I/System.out(27504): location update: 45.4195244 -75.6804152
+03-25 13:46:19.137: D/Network(27504): Network
+03-25 13:46:19.137: I/System.out(27504): Time: Tue Mar 25 13:46:19 EDT 2014 Latitude: 45.4195244 Longitude:-75.6804152 Accuracy:48.559
+03-25 13:46:20.108: I/System.out(27504): location update: 45.4195391 -75.6803371
+03-25 13:46:20.138: D/Network(27504): Network
+03-25 13:46:20.138: I/System.out(27504): Time: Tue Mar 25 13:46:20 EDT 2014 Latitude: 45.4195391 Longitude:-75.6803371 Accuracy:45.651
+03-25 13:46:21.099: I/System.out(27504): location update: 45.4195096 -75.6803212
+03-25 13:46:21.139: D/Network(27504): Network
+03-25 13:46:21.149: I/System.out(27504): Time: Tue Mar 25 13:46:21 EDT 2014 Latitude: 45.4195096 Longitude:-75.6803212 Accuracy:63.322
+03-25 13:46:22.020: I/System.out(27504): location update: 45.4195486 -75.6802677
+03-25 13:46:22.130: D/Network(27504): Network
+03-25 13:46:22.130: I/System.out(27504): Time: Tue Mar 25 13:46:22 EDT 2014 Latitude: 45.4195486 Longitude:-75.6802677 Accuracy:64.723
+03-25 13:46:23.071: I/System.out(27504): location update: 45.4195594 -75.6803038
+03-25 13:46:23.131: D/Network(27504): Network
+03-25 13:46:23.131: I/System.out(27504): Time: Tue Mar 25 13:46:23 EDT 2014 Latitude: 45.4195594 Longitude:-75.6803038 Accuracy:62.174
+03-25 13:46:24.072: I/System.out(27504): location update: 45.4195199 -75.6803609
+03-25 13:46:24.132: D/Network(27504): Network
+03-25 13:46:24.132: I/System.out(27504): Time: Tue Mar 25 13:46:24 EDT 2014 Latitude: 45.4195199 Longitude:-75.6803609 Accuracy:60.61
+03-25 13:46:25.093: I/System.out(27504): location update: 45.4195256 -75.6803969
+03-25 13:46:25.133: D/Network(27504): Network
+03-25 13:46:25.133: I/System.out(27504): Time: Tue Mar 25 13:46:25 EDT 2014 Latitude: 45.4195256 Longitude:-75.6803969 Accuracy:58.328
+03-25 13:46:26.044: I/System.out(27504): location update: 45.4195137 -75.6803867
+03-25 13:46:26.135: D/Network(27504): Network
+03-25 13:46:26.135: I/System.out(27504): Time: Tue Mar 25 13:46:26 EDT 2014 Latitude: 45.4195137 Longitude:-75.6803867 Accuracy:59.467
+03-25 13:46:27.106: I/System.out(27504): location update: 45.4195269 -75.6804345
+03-25 13:46:27.136: D/Network(27504): Network
+03-25 13:46:27.136: I/System.out(27504): Time: Tue Mar 25 13:46:27 EDT 2014 Latitude: 45.4195269 Longitude:-75.6804345 Accuracy:56.183
+03-25 13:46:27.987: I/System.out(27504): location update: 45.4195394 -75.6804513
+03-25 13:46:28.137: D/Network(27504): Network
+03-25 13:46:28.147: I/System.out(27504): Time: Tue Mar 25 13:46:27 EDT 2014 Latitude: 45.4195394 Longitude:-75.6804513 Accuracy:54.644
+03-25 13:46:29.088: I/System.out(27504): location update: 45.4195304 -75.6804327
+03-25 13:46:29.138: D/Network(27504): Network
+03-25 13:46:29.138: I/System.out(27504): Time: Tue Mar 25 13:46:29 EDT 2014 Latitude: 45.4195304 Longitude:-75.6804327 Accuracy:56.111
+03-25 13:46:29.989: I/System.out(27504): location update: 45.4195301 -75.6804718
+03-25 13:46:30.139: D/Network(27504): Network
+03-25 13:46:30.139: I/System.out(27504): Time: Tue Mar 25 13:46:29 EDT 2014 Latitude: 45.4195301 Longitude:-75.6804718 Accuracy:53.983
+03-25 13:46:31.010: I/System.out(27504): location update: 45.4195366 -75.6804858
+03-25 13:46:31.130: D/Network(27504): Network
+03-25 13:46:31.130: I/System.out(27504): Time: Tue Mar 25 13:46:30 EDT 2014 Latitude: 45.4195366 Longitude:-75.6804858 Accuracy:52.892
+03-25 13:46:32.101: I/System.out(27504): location update: 45.4195366 -75.6804428
+03-25 13:46:32.131: D/Network(27504): Network
+03-25 13:46:32.131: I/System.out(27504): Time: Tue Mar 25 13:46:32 EDT 2014 Latitude: 45.4195366 Longitude:-75.6804428 Accuracy:30.0
+03-25 13:46:33.122: I/System.out(27504): location update: 45.4195344 -75.6804547
+03-25 13:46:33.132: D/Network(27504): Network
+03-25 13:46:33.142: I/System.out(27504): Time: Tue Mar 25 13:46:33 EDT 2014 Latitude: 45.4195344 Longitude:-75.6804547 Accuracy:30.0
+03-25 13:46:33.472: D/dalvikvm(27504): GC_FOR_ALLOC freed 511K, 11% free 9176K/10200K, paused 42ms, total 42ms
+03-25 13:46:34.013: I/System.out(27504): location update: 45.4195516 -75.6803843
+03-25 13:46:34.133: D/Network(27504): Network
+03-25 13:46:34.133: I/System.out(27504): Time: Tue Mar 25 13:46:33 EDT 2014 Latitude: 45.4195516 Longitude:-75.6803843 Accuracy:30.0
+03-25 13:46:35.024: I/System.out(27504): location update: 45.4195393 -75.6803659
+03-25 13:46:35.134: D/Network(27504): Network
+03-25 13:46:35.134: I/System.out(27504): Time: Tue Mar 25 13:46:34 EDT 2014 Latitude: 45.4195393 Longitude:-75.6803659 Accuracy:30.0
+03-25 13:46:35.915: I/System.out(27504): location update: 45.4195577 -75.6803508
+03-25 13:46:36.135: D/Network(27504): Network
+03-25 13:46:36.135: I/System.out(27504): Time: Tue Mar 25 13:46:35 EDT 2014 Latitude: 45.4195577 Longitude:-75.6803508 Accuracy:30.0
+03-25 13:46:36.976: I/System.out(27504): location update: 45.419529 -75.6803671
+03-25 13:46:37.136: D/Network(27504): Network
+03-25 13:46:37.136: I/System.out(27504): Time: Tue Mar 25 13:46:36 EDT 2014 Latitude: 45.419529 Longitude:-75.6803671 Accuracy:30.0
+03-25 13:46:38.007: I/System.out(27504): location update: 45.4195248 -75.6804398
+03-25 13:46:38.137: D/Network(27504): Network
+03-25 13:46:38.137: I/System.out(27504): Time: Tue Mar 25 13:46:37 EDT 2014 Latitude: 45.4195248 Longitude:-75.6804398 Accuracy:41.495
+03-25 13:46:39.058: I/System.out(27504): location update: 45.4195068 -75.6804591
+03-25 13:46:39.138: D/Network(27504): Network
+03-25 13:46:39.138: I/System.out(27504): Time: Tue Mar 25 13:46:39 EDT 2014 Latitude: 45.4195068 Longitude:-75.6804591 Accuracy:42.288
+03-25 13:46:39.949: I/System.out(27504): location update: 45.4195058 -75.6805205
+03-25 13:46:40.139: D/Network(27504): Network
+03-25 13:46:40.149: I/System.out(27504): Time: Tue Mar 25 13:46:39 EDT 2014 Latitude: 45.4195058 Longitude:-75.6805205 Accuracy:40.565
+03-25 13:46:41.070: I/System.out(27504): location update: 45.4195224 -75.6805204
+03-25 13:46:41.131: D/Network(27504): Network
+03-25 13:46:41.131: I/System.out(27504): Time: Tue Mar 25 13:46:41 EDT 2014 Latitude: 45.4195224 Longitude:-75.6805204 Accuracy:39.173
+03-25 13:46:41.991: I/System.out(27504): location update: 45.419525 -75.6805235
+03-25 13:46:42.132: D/Network(27504): Network
+03-25 13:46:42.132: I/System.out(27504): Time: Tue Mar 25 13:46:41 EDT 2014 Latitude: 45.419525 Longitude:-75.6805235 Accuracy:38.869
+03-25 13:46:42.962: I/System.out(27504): location update: 45.4195326 -75.6804855
+03-25 13:46:43.133: D/Network(27504): Network
+03-25 13:46:43.133: I/System.out(27504): Time: Tue Mar 25 13:46:42 EDT 2014 Latitude: 45.4195326 Longitude:-75.6804855 Accuracy:39.366
+03-25 13:46:44.134: D/Network(27504): Network
+03-25 13:46:44.134: I/System.out(27504): Time: Tue Mar 25 13:46:42 EDT 2014 Latitude: 45.4195326 Longitude:-75.6804855 Accuracy:39.366
+03-25 13:46:44.194: I/System.out(27504): location update: 45.4194907 -75.6804267
+03-25 13:46:45.135: D/Network(27504): Network
+03-25 13:46:45.135: I/System.out(27504): Time: Tue Mar 25 13:46:44 EDT 2014 Latitude: 45.4194907 Longitude:-75.6804267 Accuracy:53.911
+03-25 13:46:46.156: D/Network(27504): Network
+03-25 13:46:46.156: I/System.out(27504): location update: 45.4194294 -75.6803932
+03-25 13:46:46.166: I/System.out(27504): Time: Tue Mar 25 13:46:45 EDT 2014 Latitude: 45.4194511 Longitude:-75.6803605 Accuracy:56.425
+03-25 13:46:46.947: I/System.out(27504): location update: 45.4194444 -75.6803707
+03-25 13:46:47.137: D/Network(27504): Network
+03-25 13:46:47.147: I/System.out(27504): Time: Tue Mar 25 13:46:46 EDT 2014 Latitude: 45.4194444 Longitude:-75.6803707 Accuracy:54.685
+03-25 13:46:47.888: I/System.out(27504): location update: 45.4194498 -75.6803554
+03-25 13:46:48.138: D/Network(27504): Network
+03-25 13:46:48.138: I/System.out(27504): Time: Tue Mar 25 13:46:47 EDT 2014 Latitude: 45.4194498 Longitude:-75.6803554 Accuracy:53.943
+03-25 13:46:49.039: I/System.out(27504): location update: 45.4194465 -75.6802798
+03-25 13:46:49.169: D/Network(27504): Network
+03-25 13:46:49.169: I/System.out(27504): Time: Tue Mar 25 13:46:49 EDT 2014 Latitude: 45.4194465 Longitude:-75.6802798 Accuracy:53.213
+03-25 13:46:50.060: I/System.out(27504): location update: 45.4194258 -75.6802982
+03-25 13:46:50.130: D/Network(27504): Network
+03-25 13:46:50.130: I/System.out(27504): Time: Tue Mar 25 13:46:50 EDT 2014 Latitude: 45.4194258 Longitude:-75.6802982 Accuracy:55.307
+03-25 13:46:51.061: I/System.out(27504): location update: 45.4194614 -75.6802659
+03-25 13:46:51.131: D/Network(27504): Network
+03-25 13:46:51.131: I/System.out(27504): Time: Tue Mar 25 13:46:51 EDT 2014 Latitude: 45.4194614 Longitude:-75.6802659 Accuracy:30.0
+03-25 13:46:52.052: I/System.out(27504): location update: 45.4194353 -75.6802942
+03-25 13:46:52.132: D/Network(27504): Network
+03-25 13:46:52.132: I/System.out(27504): Time: Tue Mar 25 13:46:52 EDT 2014 Latitude: 45.4194353 Longitude:-75.6802942 Accuracy:30.0
+03-25 13:46:53.103: I/System.out(27504): location update: 45.4194066 -75.6802615
+03-25 13:46:53.133: D/Network(27504): Network
+03-25 13:46:53.133: I/System.out(27504): Time: Tue Mar 25 13:46:53 EDT 2014 Latitude: 45.4194066 Longitude:-75.6802615 Accuracy:30.0
+03-25 13:46:54.134: D/Network(27504): Network
+03-25 13:46:54.134: I/System.out(27504): Time: Tue Mar 25 13:46:53 EDT 2014 Latitude: 45.4194066 Longitude:-75.6802615 Accuracy:30.0
+03-25 13:46:54.174: I/System.out(27504): location update: 45.4194043 -75.6802783
+03-25 13:46:55.135: D/Network(27504): Network
+03-25 13:46:55.135: I/System.out(27504): Time: Tue Mar 25 13:46:54 EDT 2014 Latitude: 45.4194043 Longitude:-75.6802783 Accuracy:30.0
+03-25 13:46:56.056: I/System.out(27504): location update: 45.4194128 -75.6802974
+03-25 13:46:56.137: D/Network(27504): Network
+03-25 13:46:56.137: I/System.out(27504): Time: Tue Mar 25 13:46:56 EDT 2014 Latitude: 45.4194128 Longitude:-75.6802974 Accuracy:30.0
+03-25 13:46:57.068: I/System.out(27504): location update: 45.4193939 -75.6802561
+03-25 13:46:57.138: D/Network(27504): Network
+03-25 13:46:57.138: I/System.out(27504): Time: Tue Mar 25 13:46:57 EDT 2014 Latitude: 45.4193939 Longitude:-75.6802561 Accuracy:30.0
+03-25 13:46:57.999: I/System.out(27504): location update: 45.4193777 -75.6802342
+03-25 13:46:58.139: D/Network(27504): Network
+03-25 13:46:58.139: I/System.out(27504): Time: Tue Mar 25 13:46:57 EDT 2014 Latitude: 45.4193777 Longitude:-75.6802342 Accuracy:30.0
+03-25 13:46:59.130: D/Network(27504): Network
+03-25 13:46:59.130: I/System.out(27504): Time: Tue Mar 25 13:46:57 EDT 2014 Latitude: 45.4193777 Longitude:-75.6802342 Accuracy:30.0
+03-25 13:46:59.160: I/System.out(27504): location update: 45.4193812 -75.680157
+03-25 13:47:00.131: D/Network(27504): Network
+03-25 13:47:00.131: I/System.out(27504): Time: Tue Mar 25 13:46:59 EDT 2014 Latitude: 45.4193812 Longitude:-75.680157 Accuracy:30.0
+03-25 13:47:01.012: I/System.out(27504): location update: 45.4193376 -75.6801026
+03-25 13:47:01.132: D/Network(27504): Network
+03-25 13:47:01.132: I/System.out(27504): Time: Tue Mar 25 13:47:00 EDT 2014 Latitude: 45.4193376 Longitude:-75.6801026 Accuracy:30.0
+03-25 13:47:01.973: I/System.out(27504): location update: 45.4193778 -75.680173
+03-25 13:47:02.133: D/Network(27504): Network
+03-25 13:47:02.133: I/System.out(27504): Time: Tue Mar 25 13:47:01 EDT 2014 Latitude: 45.4193778 Longitude:-75.680173 Accuracy:30.0
+03-25 13:47:03.134: D/Network(27504): Network
+03-25 13:47:03.134: I/System.out(27504): Time: Tue Mar 25 13:47:01 EDT 2014 Latitude: 45.4193778 Longitude:-75.680173 Accuracy:30.0
+03-25 13:47:03.254: I/System.out(27504): location update: 45.4193691 -75.6801608
+03-25 13:47:04.135: D/Network(27504): Network
+03-25 13:47:04.135: I/System.out(27504): Time: Tue Mar 25 13:47:03 EDT 2014 Latitude: 45.4193691 Longitude:-75.6801608 Accuracy:30.0
+03-25 13:47:04.165: I/System.out(27504): location update: 45.4193862 -75.6801113
+03-25 13:47:05.136: D/Network(27504): Network
+03-25 13:47:05.136: I/System.out(27504): Time: Tue Mar 25 13:47:04 EDT 2014 Latitude: 45.4193862 Longitude:-75.6801113 Accuracy:30.0
+03-25 13:47:06.007: I/System.out(27504): location update: 45.4193704 -75.6801016
+03-25 13:47:06.137: D/Network(27504): Network
+03-25 13:47:06.137: I/System.out(27504): Time: Tue Mar 25 13:47:05 EDT 2014 Latitude: 45.4193704 Longitude:-75.6801016 Accuracy:30.0
+03-25 13:47:06.988: I/System.out(27504): location update: 45.4193697 -75.6800565
+03-25 13:47:07.138: D/Network(27504): Network
+03-25 13:47:07.138: I/System.out(27504): Time: Tue Mar 25 13:47:06 EDT 2014 Latitude: 45.4193697 Longitude:-75.6800565 Accuracy:30.0
+03-25 13:47:07.999: I/System.out(27504): location update: 45.4193682 -75.6800657
+03-25 13:47:08.139: D/Network(27504): Network
+03-25 13:47:08.139: I/System.out(27504): Time: Tue Mar 25 13:47:07 EDT 2014 Latitude: 45.4193682 Longitude:-75.6800657 Accuracy:30.0
+03-25 13:47:08.990: I/System.out(27504): location update: 45.4193745 -75.6800455
+03-25 13:47:09.130: D/Network(27504): Network
+03-25 13:47:09.130: I/System.out(27504): Time: Tue Mar 25 13:47:08 EDT 2014 Latitude: 45.4193745 Longitude:-75.6800455 Accuracy:30.0
+03-25 13:47:09.901: I/System.out(27504): location update: 45.4193873 -75.6799811
+03-25 13:47:10.141: D/Network(27504): Network
+03-25 13:47:10.141: I/System.out(27504): Time: Tue Mar 25 13:47:09 EDT 2014 Latitude: 45.4193873 Longitude:-75.6799811 Accuracy:30.0
+03-25 13:47:11.103: I/System.out(27504): location update: 45.4193887 -75.6801446
+03-25 13:47:11.133: D/Network(27504): Network
+03-25 13:47:11.133: I/System.out(27504): Time: Tue Mar 25 13:47:11 EDT 2014 Latitude: 45.4193887 Longitude:-75.6801446 Accuracy:30.0
+03-25 13:47:11.893: I/System.out(27504): location update: 45.4193561 -75.6801995
+03-25 13:47:12.134: D/Network(27504): Network
+03-25 13:47:12.134: I/System.out(27504): Time: Tue Mar 25 13:47:11 EDT 2014 Latitude: 45.4193561 Longitude:-75.6801995 Accuracy:30.0
+03-25 13:47:13.025: I/System.out(27504): location update: 45.4193522 -75.6801939
+03-25 13:47:13.135: D/Network(27504): Network
+03-25 13:47:13.135: I/System.out(27504): Time: Tue Mar 25 13:47:13 EDT 2014 Latitude: 45.4193522 Longitude:-75.6801939 Accuracy:30.0
+03-25 13:47:14.066: I/System.out(27504): location update: 45.4193402 -75.6802281
+03-25 13:47:14.136: D/Network(27504): Network
+03-25 13:47:14.136: I/System.out(27504): Time: Tue Mar 25 13:47:14 EDT 2014 Latitude: 45.4193402 Longitude:-75.6802281 Accuracy:33.0
+03-25 13:47:15.017: I/System.out(27504): location update: 45.419342 -75.6802135
+03-25 13:47:15.137: D/Network(27504): Network
+03-25 13:47:15.137: I/System.out(27504): Time: Tue Mar 25 13:47:14 EDT 2014 Latitude: 45.419342 Longitude:-75.6802135 Accuracy:30.0
+03-25 13:47:16.068: I/System.out(27504): location update: 45.4193157 -75.6802001
+03-25 13:47:16.138: D/Network(27504): Network
+03-25 13:47:16.138: I/System.out(27504): Time: Tue Mar 25 13:47:16 EDT 2014 Latitude: 45.4193157 Longitude:-75.6802001 Accuracy:30.0
+03-25 13:47:16.919: I/System.out(27504): location update: 45.4192744 -75.6800775
+03-25 13:47:17.139: D/Network(27504): Network
+03-25 13:47:17.149: I/System.out(27504): Time: Tue Mar 25 13:47:16 EDT 2014 Latitude: 45.4192744 Longitude:-75.6800775 Accuracy:31.5
+03-25 13:47:18.030: I/System.out(27504): location update: 45.4192468 -75.6800357
+03-25 13:47:18.130: D/Network(27504): Network
+03-25 13:47:18.130: I/System.out(27504): Time: Tue Mar 25 13:47:17 EDT 2014 Latitude: 45.4192468 Longitude:-75.6800357 Accuracy:30.0
+03-25 13:47:19.021: I/System.out(27504): location update: 45.4192502 -75.6799725
+03-25 13:47:19.131: D/Network(27504): Network
+03-25 13:47:19.131: I/System.out(27504): Time: Tue Mar 25 13:47:18 EDT 2014 Latitude: 45.4192502 Longitude:-75.6799725 Accuracy:30.0
+03-25 13:47:20.062: I/System.out(27504): location update: 45.4192549 -75.680029
+03-25 13:47:20.132: D/Network(27504): Network
+03-25 13:47:20.132: I/System.out(27504): Time: Tue Mar 25 13:47:20 EDT 2014 Latitude: 45.4192549 Longitude:-75.680029 Accuracy:30.0
+03-25 13:47:21.013: I/System.out(27504): location update: 45.4192487 -75.6800296
+03-25 13:47:21.133: D/Network(27504): Network
+03-25 13:47:21.133: I/System.out(27504): Time: Tue Mar 25 13:47:20 EDT 2014 Latitude: 45.4192487 Longitude:-75.6800296 Accuracy:30.0
+03-25 13:47:21.974: I/System.out(27504): location update: 45.4192562 -75.6800875
+03-25 13:47:22.134: D/Network(27504): Network
+03-25 13:47:22.134: I/System.out(27504): Time: Tue Mar 25 13:47:21 EDT 2014 Latitude: 45.4192562 Longitude:-75.6800875 Accuracy:30.0
+03-25 13:47:22.915: I/System.out(27504): location update: 45.4192114 -75.6800955
+03-25 13:47:23.135: D/Network(27504): Network
+03-25 13:47:23.135: I/System.out(27504): Time: Tue Mar 25 13:47:22 EDT 2014 Latitude: 45.4192114 Longitude:-75.6800955 Accuracy:31.5
+03-25 13:47:24.056: I/System.out(27504): location update: 45.4192853 -75.6799953
+03-25 13:47:24.136: D/Network(27504): Network
+03-25 13:47:24.136: I/System.out(27504): Time: Tue Mar 25 13:47:24 EDT 2014 Latitude: 45.4192853 Longitude:-75.6799953 Accuracy:50.718
+03-25 13:47:24.997: I/System.out(27504): location update: 45.4193279 -75.679971
+03-25 13:47:25.137: D/Network(27504): Network
+03-25 13:47:25.137: I/System.out(27504): Time: Tue Mar 25 13:47:24 EDT 2014 Latitude: 45.4193279 Longitude:-75.679971 Accuracy:47.94
+03-25 13:47:25.948: I/System.out(27504): location update: 45.419311 -75.6799514
+03-25 13:47:26.139: D/Network(27504): Network
+03-25 13:47:26.139: I/System.out(27504): Time: Tue Mar 25 13:47:25 EDT 2014 Latitude: 45.419311 Longitude:-75.6799514 Accuracy:47.219
+03-25 13:47:27.019: I/System.out(27504): location update: 45.4192944 -75.6799232
+03-25 13:47:27.130: D/Network(27504): Network
+03-25 13:47:27.130: I/System.out(27504): Time: Tue Mar 25 13:47:26 EDT 2014 Latitude: 45.4192944 Longitude:-75.6799232 Accuracy:46.046
+03-25 13:47:27.870: I/System.out(27504): location update: 45.4192624 -75.6799155
+03-25 13:47:28.131: D/Network(27504): Network
+03-25 13:47:28.141: I/System.out(27504): Time: Tue Mar 25 13:47:27 EDT 2014 Latitude: 45.4192624 Longitude:-75.6799155 Accuracy:46.782
+03-25 13:47:28.841: I/System.out(27504): location update: 45.419321 -75.6799099
+03-25 13:47:29.132: D/Network(27504): Network
+03-25 13:47:29.132: I/System.out(27504): Time: Tue Mar 25 13:47:28 EDT 2014 Latitude: 45.419321 Longitude:-75.6799099 Accuracy:44.367
+03-25 13:47:29.933: I/System.out(27504): location update: 45.4193171 -75.6799076
+03-25 13:47:30.143: D/Network(27504): Network
+03-25 13:47:30.143: I/System.out(27504): Time: Tue Mar 25 13:47:29 EDT 2014 Latitude: 45.4193171 Longitude:-75.6799076 Accuracy:44.348
+03-25 13:47:31.044: I/System.out(27504): location update: 45.4193012 -75.6798978
+03-25 13:47:31.134: D/Network(27504): Network
+03-25 13:47:31.134: I/System.out(27504): Time: Tue Mar 25 13:47:31 EDT 2014 Latitude: 45.4193012 Longitude:-75.6798978 Accuracy:44.28
+03-25 13:47:31.815: I/System.out(27504): location update: 45.4192853 -75.6799101
+03-25 13:47:32.135: D/Network(27504): Network
+03-25 13:47:32.135: I/System.out(27504): Time: Tue Mar 25 13:47:31 EDT 2014 Latitude: 45.4192853 Longitude:-75.6799101 Accuracy:45.585
+03-25 13:47:33.016: I/System.out(27504): location update: 45.4192943 -75.6799238
+03-25 13:47:33.136: D/Network(27504): Network
+03-25 13:47:33.136: I/System.out(27504): Time: Tue Mar 25 13:47:32 EDT 2014 Latitude: 45.4192943 Longitude:-75.6799238 Accuracy:46.086
+03-25 13:47:33.917: I/System.out(27504): location update: 45.4193039 -75.6799253
+03-25 13:47:34.137: D/Network(27504): Network
+03-25 13:47:34.137: I/System.out(27504): Time: Tue Mar 25 13:47:33 EDT 2014 Latitude: 45.4193039 Longitude:-75.6799253 Accuracy:45.852
+03-25 13:47:34.938: I/System.out(27504): location update: 45.4193031 -75.6799278
+03-25 13:47:35.138: D/Network(27504): Network
+03-25 13:47:35.138: I/System.out(27504): Time: Tue Mar 25 13:47:34 EDT 2014 Latitude: 45.4193031 Longitude:-75.6799278 Accuracy:46.031
+03-25 13:47:35.909: I/System.out(27504): location update: 45.4193175 -75.6800048
+03-25 13:47:36.139: D/Network(27504): Network
+03-25 13:47:36.139: I/System.out(27504): Time: Tue Mar 25 13:47:35 EDT 2014 Latitude: 45.4193175 Longitude:-75.6800048 Accuracy:50.323
+03-25 13:47:36.930: I/System.out(27504): location update: 45.4193175 -75.6800048
+03-25 13:47:37.130: D/Network(27504): Network
+03-25 13:47:37.130: I/System.out(27504): Time: Tue Mar 25 13:47:36 EDT 2014 Latitude: 45.4193175 Longitude:-75.6800048 Accuracy:50.323
+03-25 13:47:38.011: I/System.out(27504): location update: 45.4193085 -75.6799258
+03-25 13:47:38.131: D/Network(27504): Network
+03-25 13:47:38.131: I/System.out(27504): Time: Tue Mar 25 13:47:37 EDT 2014 Latitude: 45.4193085 Longitude:-75.6799258 Accuracy:84.273
+03-25 13:47:38.942: I/System.out(27504): location update: 45.4194984 -75.679441
+03-25 13:47:39.132: D/Network(27504): Network
+03-25 13:47:39.132: I/System.out(27504): Time: Tue Mar 25 13:47:38 EDT 2014 Latitude: 45.4194984 Longitude:-75.679441 Accuracy:49.942
+03-25 13:47:39.953: I/System.out(27504): location update: 45.4195036 -75.6792558
+03-25 13:47:40.133: D/Network(27504): Network
+03-25 13:47:40.143: I/System.out(27504): Time: Tue Mar 25 13:47:39 EDT 2014 Latitude: 45.4195036 Longitude:-75.6792558 Accuracy:43.265
+03-25 13:47:40.904: I/System.out(27504): location update: 45.419555 -75.6790467
+03-25 13:47:41.135: D/Network(27504): Network
+03-25 13:47:41.135: I/System.out(27504): Time: Tue Mar 25 13:47:40 EDT 2014 Latitude: 45.419555 Longitude:-75.6790467 Accuracy:34.921
+03-25 13:47:41.935: I/System.out(27504): location update: 45.4196471 -75.6792074
+03-25 13:47:42.136: D/Network(27504): Network
+03-25 13:47:42.136: I/System.out(27504): Time: Tue Mar 25 13:47:41 EDT 2014 Latitude: 45.4196471 Longitude:-75.6792074 Accuracy:81.134
+03-25 13:47:42.956: I/System.out(27504): location update: 45.4198148 -75.6792264
+03-25 13:47:43.137: D/Network(27504): Network
+03-25 13:47:43.137: I/System.out(27504): Time: Tue Mar 25 13:47:42 EDT 2014 Latitude: 45.4198148 Longitude:-75.6792264 Accuracy:71.414
+03-25 13:47:44.008: I/System.out(27504): location update: 45.4196522 -75.6792896
+03-25 13:47:44.138: D/Network(27504): Network
+03-25 13:47:44.138: I/System.out(27504): Time: Tue Mar 25 13:47:43 EDT 2014 Latitude: 45.4196522 Longitude:-75.6792896 Accuracy:76.716
+03-25 13:47:44.899: I/System.out(27504): location update: 45.4195696 -75.6793347
+03-25 13:47:45.139: D/Network(27504): Network
+03-25 13:47:45.139: I/System.out(27504): Time: Tue Mar 25 13:47:44 EDT 2014 Latitude: 45.4195696 Longitude:-75.6793347 Accuracy:79.856
+03-25 13:47:46.060: I/System.out(27504): location update: 45.4195832 -75.6793074
+03-25 13:47:46.130: D/Network(27504): Network
+03-25 13:47:46.130: I/System.out(27504): Time: Tue Mar 25 13:47:46 EDT 2014 Latitude: 45.4195832 Longitude:-75.6793074 Accuracy:80.202
+03-25 13:47:47.031: I/System.out(27504): location update: 45.4195266 -75.6793665
+03-25 13:47:47.131: D/Network(27504): Network
+03-25 13:47:47.131: I/System.out(27504): Time: Tue Mar 25 13:47:47 EDT 2014 Latitude: 45.4195266 Longitude:-75.6793665 Accuracy:81.413
+03-25 13:47:47.892: I/System.out(27504): location update: 45.4195643 -75.6793284
+03-25 13:47:48.132: D/Network(27504): Network
+03-25 13:47:48.132: I/System.out(27504): Time: Tue Mar 25 13:47:47 EDT 2014 Latitude: 45.4195643 Longitude:-75.6793284 Accuracy:80.493
+03-25 13:47:49.063: I/System.out(27504): location update: 45.4195198 -75.6792866
+03-25 13:47:49.133: D/Network(27504): Network
+03-25 13:47:49.133: I/System.out(27504): Time: Tue Mar 25 13:47:49 EDT 2014 Latitude: 45.4195198 Longitude:-75.6792866 Accuracy:85.354
+03-25 13:47:50.134: D/Network(27504): Network
+03-25 13:47:50.134: I/System.out(27504): Time: Tue Mar 25 13:47:49 EDT 2014 Latitude: 45.4195198 Longitude:-75.6792866 Accuracy:85.354
+03-25 13:47:50.184: I/System.out(27504): location update: 45.419473 -75.6793772
+03-25 13:47:51.135: D/Network(27504): Network
+03-25 13:47:51.135: I/System.out(27504): Time: Tue Mar 25 13:47:50 EDT 2014 Latitude: 45.419473 Longitude:-75.6793772 Accuracy:88.672
+03-25 13:47:51.235: I/System.out(27504): location update: 45.4197306 -75.6792033
+03-25 13:47:52.136: D/Network(27504): Network
+03-25 13:47:52.136: I/System.out(27504): Time: Tue Mar 25 13:47:51 EDT 2014 Latitude: 45.4197306 Longitude:-75.6792033 Accuracy:78.862
+03-25 13:47:52.467: I/System.out(27504): location update: 45.4197833 -75.6792291
+03-25 13:47:53.137: D/Network(27504): Network
+03-25 13:47:53.137: I/System.out(27504): Time: Tue Mar 25 13:47:52 EDT 2014 Latitude: 45.4197833 Longitude:-75.6792291 Accuracy:75.223
+03-25 13:47:53.418: I/System.out(27504): location update: 45.4197602 -75.6792317
+03-25 13:47:54.138: D/Network(27504): Network
+03-25 13:47:54.138: I/System.out(27504): Time: Tue Mar 25 13:47:53 EDT 2014 Latitude: 45.4197602 Longitude:-75.6792317 Accuracy:75.983
+03-25 13:47:54.439: I/System.out(27504): location update: 45.4197427 -75.6792815
+03-25 13:47:55.139: D/Network(27504): Network
+03-25 13:47:55.139: I/System.out(27504): Time: Tue Mar 25 13:47:54 EDT 2014 Latitude: 45.4197427 Longitude:-75.6792815 Accuracy:73.842
+03-25 13:47:56.131: D/Network(27504): Network
+03-25 13:47:56.131: I/System.out(27504): Time: Tue Mar 25 13:47:54 EDT 2014 Latitude: 45.4197427 Longitude:-75.6792815 Accuracy:73.842
+03-25 13:47:56.291: I/System.out(27504): location update: 45.4197696 -75.6792803
+03-25 13:47:57.132: D/Network(27504): Network
+03-25 13:47:57.132: I/System.out(27504): Time: Tue Mar 25 13:47:56 EDT 2014 Latitude: 45.4197696 Longitude:-75.6792803 Accuracy:72.765
+03-25 13:47:57.492: I/System.out(27504): location update: 45.4197182 -75.679347
+03-25 13:47:58.133: D/Network(27504): Network
+03-25 13:47:58.143: I/System.out(27504): Time: Tue Mar 25 13:47:57 EDT 2014 Latitude: 45.4197182 Longitude:-75.679347 Accuracy:71.28
+03-25 13:47:59.134: D/Network(27504): Network
+03-25 13:47:59.134: I/System.out(27504): Time: Tue Mar 25 13:47:57 EDT 2014 Latitude: 45.4197182 Longitude:-75.679347 Accuracy:71.28
+03-25 13:47:59.394: I/System.out(27504): location update: 45.4197775 -75.6792374
+03-25 13:48:00.155: D/Network(27504): Network
+03-25 13:48:00.155: I/System.out(27504): Time: Tue Mar 25 13:47:59 EDT 2014 Latitude: 45.4197775 Longitude:-75.6792374 Accuracy:74.958
+03-25 13:48:00.435: I/System.out(27504): location update: 45.4197385 -75.6792844
+03-25 13:48:01.136: D/Network(27504): Network
+03-25 13:48:01.136: I/System.out(27504): Time: Tue Mar 25 13:48:00 EDT 2014 Latitude: 45.4197385 Longitude:-75.6792844 Accuracy:73.861
+03-25 13:48:01.406: I/System.out(27504): location update: 45.4197343 -75.6791786
+03-25 13:48:02.137: D/Network(27504): Network
+03-25 13:48:02.137: I/System.out(27504): Time: Tue Mar 25 13:48:01 EDT 2014 Latitude: 45.4197343 Longitude:-75.6791786 Accuracy:80.14
+03-25 13:48:02.457: I/System.out(27504): location update: 45.4197798 -75.6792441
+03-25 13:48:03.138: D/Network(27504): Network
+03-25 13:48:03.138: I/System.out(27504): Time: Tue Mar 25 13:48:02 EDT 2014 Latitude: 45.4197798 Longitude:-75.6792441 Accuracy:74.473
+03-25 13:48:03.468: I/System.out(27504): location update: 45.4197829 -75.6792567
+03-25 13:48:04.139: D/Network(27504): Network
+03-25 13:48:04.139: I/System.out(27504): Time: Tue Mar 25 13:48:03 EDT 2014 Latitude: 45.4197829 Longitude:-75.6792567 Accuracy:73.61
+03-25 13:48:04.389: I/System.out(27504): location update: 45.4197822 -75.6792559
+03-25 13:48:05.130: D/Network(27504): Network
+03-25 13:48:05.130: I/System.out(27504): Time: Tue Mar 25 13:48:04 EDT 2014 Latitude: 45.4197822 Longitude:-75.6792559 Accuracy:61.663
+03-25 13:48:06.181: D/Network(27504): Network
+03-25 13:48:06.181: I/System.out(27504): Time: Tue Mar 25 13:48:04 EDT 2014 Latitude: 45.4197981 Longitude:-75.6794732 Accuracy:61.663
+03-25 13:48:06.492: I/System.out(27504): location update: 45.4197741 -75.6794678
+03-25 13:48:07.132: D/Network(27504): Network
+03-25 13:48:07.132: I/System.out(27504): Time: Tue Mar 25 13:48:06 EDT 2014 Latitude: 45.4197741 Longitude:-75.6794678 Accuracy:63.008
+03-25 13:48:07.643: I/System.out(27504): location update: 45.4197338 -75.6795087
+03-25 13:48:08.143: D/Network(27504): Network
+03-25 13:48:08.143: I/System.out(27504): Time: Tue Mar 25 13:48:07 EDT 2014 Latitude: 45.4197338 Longitude:-75.6795087 Accuracy:63.217
+03-25 13:48:09.134: D/Network(27504): Network
+03-25 13:48:09.134: I/System.out(27504): Time: Tue Mar 25 13:48:07 EDT 2014 Latitude: 45.4197338 Longitude:-75.6795087 Accuracy:63.217
+03-25 13:48:09.335: I/System.out(27504): location update: 45.419747 -75.6794631
+03-25 13:48:10.136: D/Network(27504): Network
+03-25 13:48:10.136: I/System.out(27504): Time: Tue Mar 25 13:48:09 EDT 2014 Latitude: 45.419747 Longitude:-75.6794631 Accuracy:64.509
+03-25 13:48:10.626: I/System.out(27504): location update: 45.419756 -75.6794799
+03-25 13:48:11.137: D/Network(27504): Network
+03-25 13:48:11.137: I/System.out(27504): Time: Tue Mar 25 13:48:10 EDT 2014 Latitude: 45.419756 Longitude:-75.6794799 Accuracy:63.145
+03-25 13:48:12.138: D/Network(27504): Network
+03-25 13:48:12.138: I/System.out(27504): Time: Tue Mar 25 13:48:10 EDT 2014 Latitude: 45.419756 Longitude:-75.6794799 Accuracy:63.145
+03-25 13:48:12.288: I/System.out(27504): location update: 45.4196442 -75.6795136
+03-25 13:48:13.139: D/Network(27504): Network
+03-25 13:48:13.139: I/System.out(27504): Time: Tue Mar 25 13:48:12 EDT 2014 Latitude: 45.4196442 Longitude:-75.6795136 Accuracy:67.222
+03-25 13:48:13.609: I/System.out(27504): location update: 45.4197412 -75.679459
+03-25 13:48:14.130: D/Network(27504): Network
+03-25 13:48:14.130: I/System.out(27504): Time: Tue Mar 25 13:48:13 EDT 2014 Latitude: 45.4197412 Longitude:-75.679459 Accuracy:65.011
+03-25 13:48:14.550: I/System.out(27504): location update: 45.419797 -75.6794708
+03-25 13:48:15.131: D/Network(27504): Network
+03-25 13:48:15.131: I/System.out(27504): Time: Tue Mar 25 13:48:14 EDT 2014 Latitude: 45.419797 Longitude:-75.6794708 Accuracy:61.848
+03-25 13:48:16.132: D/Network(27504): Network
+03-25 13:48:16.132: I/System.out(27504): Time: Tue Mar 25 13:48:14 EDT 2014 Latitude: 45.419797 Longitude:-75.6794708 Accuracy:61.848
+03-25 13:48:16.342: I/System.out(27504): location update: 45.4197928 -75.6795362
+03-25 13:48:17.133: D/Network(27504): Network
+03-25 13:48:17.133: I/System.out(27504): Time: Tue Mar 25 13:48:16 EDT 2014 Latitude: 45.4197928 Longitude:-75.6795362 Accuracy:58.962
+03-25 13:48:18.134: D/Network(27504): Network
+03-25 13:48:18.134: I/System.out(27504): Time: Tue Mar 25 13:48:16 EDT 2014 Latitude: 45.4197928 Longitude:-75.6795362 Accuracy:58.962
+03-25 13:48:18.234: D/dalvikvm(27504): GC_FOR_ALLOC freed 512K, 11% free 9176K/10200K, paused 18ms, total 20ms
+03-25 13:48:18.244: I/System.out(27504): location update: 45.4197658 -75.6794754
+03-25 13:48:19.135: D/Network(27504): Network
+03-25 13:48:19.135: I/System.out(27504): Time: Tue Mar 25 13:48:18 EDT 2014 Latitude: 45.4197658 Longitude:-75.6794754 Accuracy:62.948
+03-25 13:48:19.566: I/System.out(27504): location update: 45.4196806 -75.6795221
+03-25 13:48:20.186: D/Network(27504): Network
+03-25 13:48:20.186: I/System.out(27504): Time: Tue Mar 25 13:48:19 EDT 2014 Latitude: 45.4196806 Longitude:-75.6795221 Accuracy:67.269
+03-25 13:48:20.597: I/System.out(27504): location update: 45.4197522 -75.6795176
+03-25 13:48:21.137: D/Network(27504): Network
+03-25 13:48:21.137: I/System.out(27504): Time: Tue Mar 25 13:48:20 EDT 2014 Latitude: 45.4197522 Longitude:-75.6795176 Accuracy:61.438
+03-25 13:48:21.448: I/System.out(27504): location update: 45.4197502 -75.6794902
+03-25 13:48:22.138: D/Network(27504): Network
+03-25 13:48:22.138: I/System.out(27504): Time: Tue Mar 25 13:48:21 EDT 2014 Latitude: 45.4197502 Longitude:-75.6794902 Accuracy:62.843
+03-25 13:48:22.369: I/System.out(27504): location update: 45.4196571 -75.6795026
+03-25 13:48:23.139: D/Network(27504): Network
+03-25 13:48:23.139: I/System.out(27504): Time: Tue Mar 25 13:48:22 EDT 2014 Latitude: 45.4196571 Longitude:-75.6795026 Accuracy:70.597
+03-25 13:48:24.150: D/Network(27504): Network
+03-25 13:48:24.150: I/System.out(27504): Time: Tue Mar 25 13:48:22 EDT 2014 Latitude: 45.419647 Longitude:-75.6795037 Accuracy:70.597
+03-25 13:48:24.211: I/System.out(27504): location update: 45.419684 -75.6795228
+03-25 13:48:25.132: D/Network(27504): Network
+03-25 13:48:25.132: I/System.out(27504): Time: Tue Mar 25 13:48:24 EDT 2014 Latitude: 45.419684 Longitude:-75.6795228 Accuracy:66.964
+03-25 13:48:25.432: I/System.out(27504): location update: 45.4197466 -75.6795323
+03-25 13:48:26.143: D/Network(27504): Network
+03-25 13:48:26.153: I/System.out(27504): Time: Tue Mar 25 13:48:25 EDT 2014 Latitude: 45.4197466 Longitude:-75.6795323 Accuracy:61.467
+03-25 13:48:26.533: I/System.out(27504): location update: 45.4197541 -75.6795237
+03-25 13:48:27.134: D/Network(27504): Network
+03-25 13:48:27.134: I/System.out(27504): Time: Tue Mar 25 13:48:26 EDT 2014 Latitude: 45.4197541 Longitude:-75.6795237 Accuracy:61.1
+03-25 13:48:27.444: I/System.out(27504): location update: 45.4197019 -75.6794929
+03-25 13:48:28.145: D/Network(27504): Network
+03-25 13:48:28.155: I/System.out(27504): Time: Tue Mar 25 13:48:27 EDT 2014 Latitude: 45.4197019 Longitude:-75.6794929 Accuracy:66.316
+03-25 13:48:29.136: D/Network(27504): Network
+03-25 13:48:29.136: I/System.out(27504): Time: Tue Mar 25 13:48:27 EDT 2014 Latitude: 45.4197019 Longitude:-75.6794929 Accuracy:66.316
+03-25 13:48:29.326: I/System.out(27504): location update: 45.4197421 -75.6795445
+03-25 13:48:30.147: D/Network(27504): Network
+03-25 13:48:30.147: I/System.out(27504): Time: Tue Mar 25 13:48:29 EDT 2014 Latitude: 45.4197421 Longitude:-75.6795445 Accuracy:61.494
+03-25 13:48:30.387: I/System.out(27504): location update: 45.4197755 -75.6795161
+03-25 13:48:31.138: D/Network(27504): Network
+03-25 13:48:31.138: I/System.out(27504): Time: Tue Mar 25 13:48:30 EDT 2014 Latitude: 45.4197755 Longitude:-75.6795161 Accuracy:60.204
+03-25 13:48:31.348: I/System.out(27504): location update: 45.4197611 -75.679558
+03-25 13:48:32.139: D/Network(27504): Network
+03-25 13:48:32.139: I/System.out(27504): Time: Tue Mar 25 13:48:31 EDT 2014 Latitude: 45.4197611 Longitude:-75.679558 Accuracy:59.528
+03-25 13:48:33.140: D/Network(27504): Network
+03-25 13:48:33.140: I/System.out(27504): Time: Tue Mar 25 13:48:31 EDT 2014 Latitude: 45.4197611 Longitude:-75.679558 Accuracy:59.528
+03-25 13:48:33.410: I/System.out(27504): location update: 45.4197828 -75.6795411
+03-25 13:48:34.131: D/Network(27504): Network
+03-25 13:48:34.131: I/System.out(27504): Time: Tue Mar 25 13:48:33 EDT 2014 Latitude: 45.4197828 Longitude:-75.6795411 Accuracy:58.459
+03-25 13:48:34.341: I/System.out(27504): location update: 45.4197541 -75.679544
+03-25 13:48:35.132: D/Network(27504): Network
+03-25 13:48:35.132: I/System.out(27504): Time: Tue Mar 25 13:48:34 EDT 2014 Latitude: 45.4197541 Longitude:-75.679544 Accuracy:60.508
+03-25 13:48:36.133: D/Network(27504): Network
+03-25 13:48:36.133: I/System.out(27504): Time: Tue Mar 25 13:48:34 EDT 2014 Latitude: 45.4197541 Longitude:-75.679544 Accuracy:60.508
+03-25 13:48:36.394: I/System.out(27504): location update: 45.4196346 -75.6795571
+03-25 13:48:37.134: D/Network(27504): Network
+03-25 13:48:37.134: I/System.out(27504): Time: Tue Mar 25 13:48:36 EDT 2014 Latitude: 45.4196346 Longitude:-75.6795571 Accuracy:70.299
+03-25 13:48:37.395: I/System.out(27504): location update: 45.419725 -75.6795277
+03-25 13:48:38.135: D/Network(27504): Network
+03-25 13:48:38.135: I/System.out(27504): Time: Tue Mar 25 13:48:37 EDT 2014 Latitude: 45.419725 Longitude:-75.6795277 Accuracy:63.395
+03-25 13:48:39.136: D/Network(27504): Network
+03-25 13:48:39.136: I/System.out(27504): Time: Tue Mar 25 13:48:37 EDT 2014 Latitude: 45.419725 Longitude:-75.6795277 Accuracy:63.395
+03-25 13:48:39.437: I/System.out(27504): location update: 45.4197153 -75.6795341
+03-25 13:48:40.138: D/Network(27504): Network
+03-25 13:48:40.138: I/System.out(27504): Time: Tue Mar 25 13:48:39 EDT 2014 Latitude: 45.4197153 Longitude:-75.6795341 Accuracy:64.026
+03-25 13:48:40.408: I/System.out(27504): location update: 45.4197546 -75.6795311
+03-25 13:48:41.149: D/Network(27504): Network
+03-25 13:48:41.149: I/System.out(27504): Time: Tue Mar 25 13:48:40 EDT 2014 Latitude: 45.4197546 Longitude:-75.6795311 Accuracy:60.84
+03-25 13:48:42.180: D/Network(27504): Network
+03-25 13:48:42.180: I/System.out(27504): Time: Tue Mar 25 13:48:40 EDT 2014 Latitude: 45.4197546 Longitude:-75.6795311 Accuracy:60.84
+03-25 13:48:42.500: I/System.out(27504): location update: 45.4196404 -75.6795367
+03-25 13:48:43.131: D/Network(27504): Network
+03-25 13:48:43.131: I/System.out(27504): Time: Tue Mar 25 13:48:42 EDT 2014 Latitude: 45.4196404 Longitude:-75.6795367 Accuracy:66.284
+03-25 13:48:43.511: I/System.out(27504): location update: 45.4196438 -75.6795343
+03-25 13:48:44.132: D/Network(27504): Network
+03-25 13:48:44.132: I/System.out(27504): Time: Tue Mar 25 13:48:43 EDT 2014 Latitude: 45.4196438 Longitude:-75.6795343 Accuracy:70.07
+03-25 13:48:45.133: D/Network(27504): Network
+03-25 13:48:45.133: I/System.out(27504): Time: Tue Mar 25 13:48:43 EDT 2014 Latitude: 45.4196438 Longitude:-75.6795343 Accuracy:70.07
+03-25 13:48:45.413: I/System.out(27504): location update: 45.4196609 -75.679455
+03-25 13:48:46.134: D/Network(27504): Network
+03-25 13:48:46.134: I/System.out(27504): Time: Tue Mar 25 13:48:45 EDT 2014 Latitude: 45.4196609 Longitude:-75.679455 Accuracy:70.817
+03-25 13:48:47.145: D/Network(27504): Network
+03-25 13:48:47.145: I/System.out(27504): Time: Tue Mar 25 13:48:45 EDT 2014 Latitude: 45.4196609 Longitude:-75.679455 Accuracy:70.817
+03-25 13:48:47.575: I/System.out(27504): location update: 45.4196803 -75.6794854
+03-25 13:48:48.136: D/Network(27504): Network
+03-25 13:48:48.146: I/System.out(27504): Time: Tue Mar 25 13:48:47 EDT 2014 Latitude: 45.4196803 Longitude:-75.6794854 Accuracy:68.322
+03-25 13:48:49.237: D/Network(27504): Network
+03-25 13:48:49.237: I/System.out(27504): Time: Tue Mar 25 13:48:47 EDT 2014 Latitude: 45.4196803 Longitude:-75.6794854 Accuracy:68.322
+03-25 13:48:49.518: I/System.out(27504): location update: 45.4197 -75.6794905
+03-25 13:48:50.138: D/Network(27504): Network
+03-25 13:48:50.148: I/System.out(27504): Time: Tue Mar 25 13:48:49 EDT 2014 Latitude: 45.4197 Longitude:-75.6794905 Accuracy:66.543
+03-25 13:48:50.589: I/System.out(27504): location update: 45.4196654 -75.6794986
+03-25 13:48:51.139: D/Network(27504): Network
+03-25 13:48:51.139: I/System.out(27504): Time: Tue Mar 25 13:48:50 EDT 2014 Latitude: 45.4196654 Longitude:-75.6794986 Accuracy:69.19
+03-25 13:48:52.130: D/Network(27504): Network
+03-25 13:48:52.130: I/System.out(27504): Time: Tue Mar 25 13:48:50 EDT 2014 Latitude: 45.4196654 Longitude:-75.6794986 Accuracy:69.19
+03-25 13:48:52.321: I/System.out(27504): location update: 45.4196923 -75.6795027
+03-25 13:48:53.131: D/Network(27504): Network
+03-25 13:48:53.141: I/System.out(27504): Time: Tue Mar 25 13:48:52 EDT 2014 Latitude: 45.4196923 Longitude:-75.6795027 Accuracy:66.829
+03-25 13:48:53.432: I/System.out(27504): location update: 45.4196542 -75.6795252
+03-25 13:48:54.132: D/Network(27504): Network
+03-25 13:48:54.132: I/System.out(27504): Time: Tue Mar 25 13:48:53 EDT 2014 Latitude: 45.4196542 Longitude:-75.6795252 Accuracy:69.418
+03-25 13:48:54.523: I/System.out(27504): location update: 45.4196846 -75.6795334
+03-25 13:48:55.164: D/Network(27504): Network
+03-25 13:48:55.164: I/System.out(27504): Time: Tue Mar 25 13:48:54 EDT 2014 Latitude: 45.4196846 Longitude:-75.6795334 Accuracy:66.629
+03-25 13:48:55.394: I/System.out(27504): location update: 45.4197502 -75.6794564
+03-25 13:48:56.135: D/Network(27504): Network
+03-25 13:48:56.135: I/System.out(27504): Time: Tue Mar 25 13:48:55 EDT 2014 Latitude: 45.4197502 Longitude:-75.6794564 Accuracy:64.736
+03-25 13:48:56.515: I/System.out(27504): location update: 45.4196109 -75.6795121
+03-25 13:48:57.136: D/Network(27504): Network
+03-25 13:48:57.136: I/System.out(27504): Time: Tue Mar 25 13:48:56 EDT 2014 Latitude: 45.4196109 Longitude:-75.6795121 Accuracy:73.438
+03-25 13:48:57.586: I/System.out(27504): location update: 45.4195832 -75.679552
+03-25 13:48:58.137: D/Network(27504): Network
+03-25 13:48:58.137: I/System.out(27504): Time: Tue Mar 25 13:48:57 EDT 2014 Latitude: 45.4195832 Longitude:-75.679552 Accuracy:74.864
+03-25 13:48:59.138: D/Network(27504): Network
+03-25 13:48:59.138: I/System.out(27504): Time: Tue Mar 25 13:48:57 EDT 2014 Latitude: 45.4195832 Longitude:-75.679552 Accuracy:74.864
+03-25 13:48:59.368: I/System.out(27504): location update: 45.4196121 -75.6795565
+03-25 13:49:00.139: D/Network(27504): Network
+03-25 13:49:00.139: I/System.out(27504): Time: Tue Mar 25 13:48:59 EDT 2014 Latitude: 45.4196121 Longitude:-75.6795565 Accuracy:72.256
+03-25 13:49:00.559: I/System.out(27504): location update: 45.4196102 -75.6795617
+03-25 13:49:01.140: D/Network(27504): Network
+03-25 13:49:01.140: I/System.out(27504): Time: Tue Mar 25 13:49:00 EDT 2014 Latitude: 45.4196102 Longitude:-75.6795617 Accuracy:72.301
+03-25 13:49:02.131: D/Network(27504): Network
+03-25 13:49:02.131: I/System.out(27504): Time: Tue Mar 25 13:49:00 EDT 2014 Latitude: 45.4196102 Longitude:-75.6795617 Accuracy:72.301
+03-25 13:49:02.181: I/System.out(27504): location update: 45.4195964 -75.6795495
+03-25 13:49:03.142: D/Network(27504): Network
+03-25 13:49:03.142: I/System.out(27504): Time: Tue Mar 25 13:49:02 EDT 2014 Latitude: 45.4195964 Longitude:-75.6795495 Accuracy:73.777
+03-25 13:49:03.603: I/System.out(27504): location update: 45.4196659 -75.679514
+03-25 13:49:04.153: D/Network(27504): Network
+03-25 13:49:04.153: I/System.out(27504): Time: Tue Mar 25 13:49:03 EDT 2014 Latitude: 45.4196659 Longitude:-75.679514 Accuracy:68.726
+03-25 13:49:04.544: I/System.out(27504): location update: 45.419705 -75.6795217
+03-25 13:49:05.134: D/Network(27504): Network
+03-25 13:49:05.134: I/System.out(27504): Time: Tue Mar 25 13:49:04 EDT 2014 Latitude: 45.419705 Longitude:-75.6795217 Accuracy:65.233
+03-25 13:49:06.135: D/Network(27504): Network
+03-25 13:49:06.135: I/System.out(27504): Time: Tue Mar 25 13:49:04 EDT 2014 Latitude: 45.419705 Longitude:-75.6795217 Accuracy:65.233
+03-25 13:49:06.265: I/System.out(27504): location update: 45.4197113 -75.6794973
+03-25 13:49:07.136: D/Network(27504): Network
+03-25 13:49:07.136: I/System.out(27504): Time: Tue Mar 25 13:49:06 EDT 2014 Latitude: 45.4197113 Longitude:-75.6794973 Accuracy:65.41
+03-25 13:49:07.437: I/System.out(27504): location update: 45.4197447 -75.6795441
