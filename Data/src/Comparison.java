@@ -14,7 +14,10 @@ public class Comparison {
 		Constants.phonegap_native = new TreeMap<String, Map<String, ArrayList<Double>>>();
 		Constants.native_webApp = new TreeMap<String, Map<String, ArrayList<Double>>>();
 		
-		
+		if (Constants.index.isEmpty()){
+			System.err.println("index is empty");
+			return;
+		}
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()){
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()){
 				Map<String, ArrayList<String>> device = time.getValue();

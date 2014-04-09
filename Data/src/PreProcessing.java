@@ -74,9 +74,12 @@ public class PreProcessing {
 						} else if (file.getName().toLowerCase().contains("web app")) {
 							while ((line = reader.readLine()) != null) {
 								if (line.contains("Time")){
-									String info = reader.readLine(); // lat
+									String info = line; // time
 									@SuppressWarnings("unused")
 									String trash = reader.readLine();
+									
+									info += " " + reader.readLine(); // lat
+									trash = reader.readLine();
 									
 									info += " " + reader.readLine(); // long
 									trash = reader.readLine();
@@ -88,7 +91,7 @@ public class PreProcessing {
 							}
 						}
 					} else {
-						System.out.println("Invalid File Type: "
+						System.err.println("Invalid File Type: "
 								+ file.getName());
 					}
 				} catch (Exception x) {

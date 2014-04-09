@@ -4,23 +4,25 @@ import java.util.TreeMap;
 import java.util.Map.Entry;
 
 public class ThreePointFilter {
-	private static double diff = 8.0;
-	private static double PRECISION = 0.001;
-	private static int outliercheck = 2;
 	
 	public static void start() {
 
 		Constants.filteredIndex = new TreeMap<String, Map<String, Map<String, ArrayList<String>>>>();
 		
 		ArrayList<ArrayList<String>> last = new ArrayList<ArrayList<String>>();
-
+		ArrayList<String> lastCoord = new ArrayList<String>();
+		Map<String, ArrayList<String>> lastCoordValues =  new TreeMap<String, ArrayList<String>>();
+		
+		if (Constants.index.isEmpty()){
+			System.err.println("index is empty");
+			return;
+		}
+		
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()) {
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()) {
 				
-				if ((time.getValue().size() == 3 && Constants.validCheck) || !Constants.validCheck) {
+				if ((time.getValue().size() == 3 && Constants.validCheck) || (!Constants.validCheck && exists(date.getKey(), time.getKey(), time.getValue()))) {
 					ArrayList<String> current = new ArrayList<String>();
-					
-					if(exists(date.getKey(), time.getKey(), time.getValue())) {
 						current.add(date.getKey());
 						current.add(time.getKey());
 						// start
@@ -54,11 +56,15 @@ public class ThreePointFilter {
 								last.clear();
 								last = temp;
 							}
-						}
+					}
+						lastCoord.clear();
+						lastCoord.add(date.getKey());
+						lastCoord.add(time.getKey());
+						lastCoordValues = time.getValue();
 					}
 				}
 			}
-		}
+			save(lastCoord.get(0), lastCoord.get(1), lastCoordValues);
 	}
 
 
@@ -66,7 +72,7 @@ public class ThreePointFilter {
 		if (last.size() < 2)
 			return false;
 		else
-			return(DistanceAlgorithm.calculate3PointFilter(last.get(0), current, last.get(last.size()/2)) < PRECISION);
+			return(DistanceAlgorithm.calculate3PointFilter(last.get(0), current, last.get(last.size()/2)) < Constants.PRECISION);
 	}
 
 	private static boolean exists(String key, String key2, Map<String, ArrayList<String>> value) {
@@ -78,7 +84,7 @@ public class ThreePointFilter {
 		return false;
 	}
 	private static boolean distranceCheck(ArrayList<ArrayList<String>> last, ArrayList<String> current) {	
-		return(DistanceAlgorithm.calculate3PointFilter(last.get(0), current, last.get(last.size()/2)) < diff);
+		return(DistanceAlgorithm.calculate3PointFilter(last.get(0), current, last.get(last.size()/2)) < Constants.diff3);
 	}
 	
 	private static boolean outlierCheck(ArrayList<ArrayList<String>> last, ArrayList<String> current) {
@@ -98,7 +104,7 @@ public class ThreePointFilter {
 				else{
 					j = last.size()/2 + i + 1;
 				}
-				if (DistanceAlgorithm.calculate3PointFilter(last.get(0), nextCoord.get(i), last.get(j)) < diff) {
+				if (DistanceAlgorithm.calculate3PointFilter(last.get(0), nextCoord.get(i), last.get(j)) < Constants.diff3) {
 					return true;
 				}
 			}
@@ -113,7 +119,7 @@ public class ThreePointFilter {
 		int counter = 0;
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()) {
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()) {
-				if(counter == outliercheck){
+				if(counter == Constants.outliercheck){
 					return nextCoord;
 				}
 				else if (next && time.getValue().containsKey(Constants.filterDevice)){

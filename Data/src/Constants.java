@@ -20,31 +20,35 @@ public class Constants {
 	 * Output Ways
 	 */
 	// Only use times where data from native, console and web app is available
-	public static boolean validCheck = false;	
+	public static boolean validCheck = true;	
 		
 	// Overall mix between all the files
 	public static boolean summary = true;
 	
 	// print each device coord separately
-	public static boolean deviceDetail = true;
+	public static boolean deviceDetail = false;
 
 	// Filtered data
 	public static boolean filters = true;
 		// false is use regular filter
-		public static boolean filterMehod3p = false;
+		public static boolean filterMehod3p = true;
 		// Determine which device to check when filtering; choices: (phonegap, webapp, native)
 		public static String filterDevice = "phonegap";
 		// Remove Outliers
-		public static boolean outlierDetection = false;
+		public static boolean outlierDetection = true;
 
 		// === regular filter settings ===
 		// Sharpen corners
 		public static boolean cornerDetection = false;
 		// Max difference between point and line in filter (meters)
-		public static double diff = 10.0; 
+		public static double diff = 5.0; 
 		// how many coords to check to determine if it's a corner or outlier
 		public static int coordCheck = 5;
 
+		// === 3 point filter Setings ===
+		public static double diff3 = 1.6;
+		public static double PRECISION = 0.001;
+		public static int outliercheck = 2;
 			
 	// Calculate the coordinate differences between the 3 data sets
 	public static boolean coordDiff = false;
@@ -59,7 +63,7 @@ public class Constants {
 	public static boolean gMapLayers = false;
 	
 	// Split packages into 100 by Devices
-	public static boolean gMapDevices = false;
+	public static boolean gMapDevices = true;
     
 	/******************************************
 	 * Constants

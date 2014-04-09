@@ -5,10 +5,11 @@ import java.util.Map.Entry;
 public class DataSet {
 	
 	public static void main(String[] args) {
-
-		long a = 0, b = 0, c = 0, d = 0, e = 0, start, fStart, total;
-
+		long fStart;
 		fStart = System.currentTimeMillis();
+
+		long a = 0, b = 0, c = 0, d = 0, e = 0, start, total;
+
 		// Preprocessing
 		System.out.println("\nStart Preprocessing");
 		start = System.currentTimeMillis();
@@ -78,6 +79,10 @@ public class DataSet {
 	@SuppressWarnings("unused")
 	private static void printFilter() {
 		System.out.println("Filter: ");
+		if (Constants.filteredIndex.isEmpty()){
+			System.err.println("filteredIndex is emptry");
+			return;
+		}
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.filteredIndex.entrySet()){
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()){
 				for (Entry<String, ArrayList<String>> device : time.getValue().entrySet()){
@@ -129,6 +134,10 @@ public class DataSet {
 	
 	public static void printIndex(){
 		System.out.println("Indexing: ");
+		if (Constants.index.isEmpty()){
+			System.err.println("index is emptry");
+			return;
+		}
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()){
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()){
 				for (Entry<String, ArrayList<String>> device : time.getValue().entrySet()){

@@ -11,63 +11,71 @@ public class Filter {
 		Constants.filteredIndex = new TreeMap<String, Map<String, Map<String, ArrayList<String>>>>();
 		
 		ArrayList<ArrayList<String>> last = new ArrayList<ArrayList<String>>();
-
+		ArrayList<String> lastCoord = new ArrayList<String>();
+		Map<String, ArrayList<String>> lastCoordValues =  new TreeMap<String, ArrayList<String>>();
+		
+		if (Constants.index.isEmpty()){
+			System.err.println("index is empty");
+		}
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()) {
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()) {
-				
-				if ((time.getValue().size() == 3 && Constants.validCheck) || !Constants.validCheck) {
+
+				if ((time.getValue().size() == 3 && Constants.validCheck) || (!Constants.validCheck && exists(date.getKey(), time.getKey(), time.getValue()))) {
 					ArrayList<String> current = new ArrayList<String>();
-					
-					if(exists(date.getKey(), time.getKey(), time.getValue())) {
-						current.add(date.getKey());
-						current.add(time.getKey());
-						// start
-						if (last.isEmpty()) {
+					current.add(date.getKey());
+					current.add(time.getKey());
+					// start
+					if (last.isEmpty()) {
+						last.add(current);
+						save(date.getKey(), time.getKey(), time.getValue());
+					}
+					// regular node
+					else if (distranceCheck(last, current)) {
+						last.add(current);
+					}
+					// outside of distance
+					else {
+						boolean fixed = false;
+
+						if (Constants.outlierDetection) {
+							// checking outlier
+							if (outlierCheck(last, current)) {
+								// ignores current coord
+								fixed = true;
+							}
+						}
+
+						if (Constants.cornerDetection && !fixed) {
+							if (cornerCheck(last, current)) {
+								ArrayList<ArrayList<String>> temp = new ArrayList<ArrayList<String>>();
+
+								for (int i = last.indexOf(fixCorner(last,
+										current)); i < last.size(); i++) {
+									temp.add(last.get(i));
+								}
+
+								last.clear();
+								last = temp;
+								fixed = true;
+							}
+						}
+
+						// Update Coords
+						if (!fixed) {
+							last.clear();
 							last.add(current);
 							save(date.getKey(), time.getKey(), time.getValue());
 						}
-						// regular node
-						else if (distranceCheck(last, current)) {
-							last.add(current);
-						}
-						// outside of distance
-						else {
-							boolean fixed = false;
-							
-							if (Constants.outlierDetection){
-								// checking outlier
-								if(outlierCheck(last, current)){
-									// ignores current coord
-									fixed = true;
-								}
-							}
-							
-							if (Constants.cornerDetection  && !fixed){
-								if(cornerCheck(last, current)){
-									ArrayList<ArrayList<String>> temp = new ArrayList<ArrayList<String>>();
-	
-									for (int i = last.indexOf(fixCorner(last, current)); i < last.size(); i++){
-										temp.add(last.get(i));
-									}
-									
-									last.clear();
-									last = temp;
-									fixed = true;
-								}
-							}
-							
-							// Update Coords
-							if(!fixed){
-								last.clear();
-								last.add(current);
-								save(date.getKey(), time.getKey(), time.getValue());
-							}
-	
-						}
+
 					}
+					lastCoord.clear();
+					lastCoord.add(date.getKey());
+					lastCoord.add(time.getKey());
+					lastCoordValues = time.getValue();
 				}
 			}
 		}
+		save(lastCoord.get(0), lastCoord.get(1), lastCoordValues);
 	}
 
 
@@ -155,6 +163,9 @@ public class Filter {
 		ArrayList<ArrayList<String>> nextCoord = new ArrayList<ArrayList<String>>();
 		
 		int counter = 0;
+		if (Constants.index.isEmpty()){
+			System.err.println("index is emptry");
+		}
 		for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : Constants.index.entrySet()) {
 			for (Entry<String, Map<String, ArrayList<String>>> time : date.getValue().entrySet()) {
 				

@@ -47,6 +47,10 @@ public class DistanceAlgorithm {
 
 	public static double calculateFilter(ArrayList<String> start, ArrayList<String> end, ArrayList<String> node) {
 
+		if (Constants.index.isEmpty()){
+			System.err.println("index is empty");
+		}
+		
 		double [] a = {Double.parseDouble(Constants.index.get(start.get(0)).get(start.get(1)).get(Constants.filterDevice).get(0)), Double.parseDouble(Constants.index.get(start.get(0)).get(start.get(1)).get(Constants.filterDevice).get(1))};
 		double [] b = {Double.parseDouble(Constants.index.get(end.get(0)).get(end.get(1)).get(Constants.filterDevice).get(0)), Double.parseDouble(Constants.index.get(end.get(0)).get(end.get(1)).get(Constants.filterDevice).get(1))};
 		double [] c = {Double.parseDouble(Constants.index.get(node.get(0)).get(node.get(1)).get(Constants.filterDevice).get(0)), Double.parseDouble(Constants.index.get(node.get(0)).get(node.get(1)).get(Constants.filterDevice).get(1))};

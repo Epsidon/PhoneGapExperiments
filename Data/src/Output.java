@@ -38,7 +38,7 @@ public class Output {
 				dir.mkdir();
 				generateCsvFile("summary_gMapDevices", path + Constants.resultsfileName + "_DeviceLayers" + "/", Constants.resultsfileName, Constants.index);
 			}
-			if (!Constants.deviceDetail){
+			if (Constants.deviceDetail){
 				generateCsvFile("summary_unmerge", path,Constants.resultsfileName, Constants.index);
 			}
 		}
@@ -104,6 +104,11 @@ public class Output {
 			}
 		
 			lineCounter ++;
+			if (document.isEmpty()){
+				System.err.println("document is empty");
+				return;
+			}
+			
 			
 			// Start Body
 			for (Entry<String, Map<String, Map<String, ArrayList<String>>>> date : document.entrySet()) {
@@ -172,6 +177,10 @@ public class Output {
 			addEnd(0);
 
 
+			if (document.isEmpty()){
+				System.err.println("document is empty");
+			}
+			
 			for (Entry<String, Map<String, ArrayList<Double>>> date : document.entrySet()) {
 				for (Entry<String, ArrayList<Double>> time : date.getValue().entrySet()) {
 					writer.get(0).append(date.getKey()); // date
